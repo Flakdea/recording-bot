@@ -1,0 +1,3075 @@
+{
+  "error": {
+    "code": 0,
+    "message": null
+  },
+  "data": {
+    "list": [
+      {
+        "id": "4920880",
+        "name": "Перманент",
+        "category_value": "Перманент",
+        "category_custom_sort": 16,
+        "field_sort_service": "value",
+        "services": [
+          {
+            "id": 20040611,
+            "company_service_id": 20040611,
+            "name": "ГУБЫ - АКВАРЕЛЬНЫЙ ЭФФЕКТ",
+            "image": "https://f2.dikidi.net/c24/v23492/dpesr579e2.jpg",
+            "cost": 15000,
+            "time": 180,
+            "floating": false,
+            "discount": 0,
+            "price": 15000,
+            "share": 0,
+            "service_value": "ГУБЫ - АКВАРЕЛЬНЫЙ ЭФФЕКТ",
+            "service_points": 0.03,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 46983228,
+              "url": "https://f2.dikidi.ru/c24/v23492/dpesr579e2.jpg"
+            }
+          },
+          {
+            "id": 20040608,
+            "company_service_id": 20040608,
+            "name": "МЕЖРЕСНИЧКА",
+            "image": "https://f2.dikidi.net/c24/v23492/4mcnjegtho.jpg",
+            "cost": 12000,
+            "time": 150,
+            "floating": false,
+            "discount": 0,
+            "price": 12000,
+            "share": 0,
+            "service_value": "МЕЖРЕСНИЧКА",
+            "service_points": 0.01,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 46983278,
+              "url": "https://f2.dikidi.ru/c24/v23492/4mcnjegtho.jpg"
+            }
+          },
+          {
+            "id": 20040604,
+            "company_service_id": 20040604,
+            "name": "БРОВИ: ПУДРОВОЕ НАПЫЛЕНИЕ (без старого пм)",
+            "image": "https://f2.dikidi.net/c24/v23492/5ejkiosbg0.jpg",
+            "cost": 15000,
+            "time": 150,
+            "floating": false,
+            "discount": 0,
+            "price": 15000,
+            "share": 0,
+            "service_value": "БРОВИ: ПУДРОВОЕ НАПЫЛЕНИЕ (без старого пм)",
+            "service_points": 0,
+            "service_custom_sort": 4,
+            "icon": {
+              "id": 46983190,
+              "url": "https://f2.dikidi.ru/c24/v23492/5ejkiosbg0.jpg"
+            }
+          },
+          {
+            "id": 20241455,
+            "company_service_id": 20241455,
+            "name": "БРОВИ: ПЕРЕКРЫТИЕ СТАРОГО ПМ",
+            "image": "https://f2.dikidi.net/c24/v23492/1sbbeb1dj0.jpg",
+            "cost": 15000,
+            "time": 150,
+            "floating": false,
+            "discount": 0,
+            "price": 15000,
+            "share": 0,
+            "service_value": "БРОВИ: ПЕРЕКРЫТИЕ СТАРОГО ПМ",
+            "service_points": 0.04,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 46983186,
+              "url": "https://f2.dikidi.ru/c24/v23492/1sbbeb1dj0.jpg"
+            }
+          },
+          {
+            "id": 20139595,
+            "company_service_id": 20139595,
+            "name": "КОРРЕКЦИЯ: МЕЖРЕСНИЧКА",
+            "image": "https://f2.dikidi.net/c24/v23492/7dli0cb3ju.jpg",
+            "cost": 6000,
+            "time": 120,
+            "floating": false,
+            "discount": 0,
+            "price": 6000,
+            "share": 0,
+            "service_value": "КОРРЕКЦИЯ: МЕЖРЕСНИЧКА",
+            "service_points": 0,
+            "service_custom_sort": 2,
+            "icon": {
+              "id": 46983268,
+              "url": "https://f2.dikidi.ru/c24/v23492/7dli0cb3ju.jpg"
+            }
+          },
+          {
+            "id": 20139593,
+            "company_service_id": 20139593,
+            "name": "КОРРЕКЦИЯ: БРОВИ/ГУБЫ",
+            "image": "https://f2.dikidi.net/c24/v23492/63p3h9l32p.jpg",
+            "cost": 7500,
+            "time": 120,
+            "floating": false,
+            "discount": 0,
+            "price": 7500,
+            "share": 0,
+            "service_value": "КОРРЕКЦИЯ: БРОВИ/ГУБЫ",
+            "service_points": 0.01,
+            "service_custom_sort": 1,
+            "icon": {
+              "id": 46983286,
+              "url": "https://f2.dikidi.ru/c24/v23492/63p3h9l32p.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2613180",
+        "name": "Мужчинам",
+        "category_value": "Мужчинам",
+        "category_custom_sort": 14,
+        "field_sort_service": "custom_sort",
+        "services": [
+          {
+            "id": 10482502,
+            "company_service_id": 10482502,
+            "name": "МУЖСКОЙ ПЕДИКЮР",
+            "image": "https://f1.dikidi.net/c13/v12265/76dka2vk8c.jpg",
+            "cost": 4000,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 4000,
+            "share": 0,
+            "service_value": "МУЖСКОЙ ПЕДИКЮР",
+            "service_points": 0.44,
+            "service_custom_sort": 31,
+            "icon": {
+              "id": 24528260,
+              "url": "https://f1.dikidi.ru/c13/v12265/76dka2vk8c.jpg"
+            }
+          },
+          {
+            "id": 13642274,
+            "company_service_id": 13642274,
+            "name": "МУЖСКОЙ МАНИКЮР",
+            "image": "https://f1.dikidi.net/c13/v12265/28gkqa5kk3.jpg",
+            "cost": 2500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 2500,
+            "share": 0,
+            "service_value": "МУЖСКОЙ МАНИКЮР",
+            "service_points": 0,
+            "service_custom_sort": 30,
+            "icon": {
+              "id": 24528150,
+              "url": "https://f1.dikidi.ru/c13/v12265/28gkqa5kk3.jpg"
+            }
+          },
+          {
+            "id": 10045708,
+            "company_service_id": 10045708,
+            "name": "БРОВИ. МУЖСКОЙ КОМПЛЕКС",
+            "image": "https://f1.dikidi.net/c13/v12265/38b20k11l6.jpg",
+            "cost": 3000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 3000,
+            "share": 0,
+            "service_value": "БРОВИ. МУЖСКОЙ КОМПЛЕКС",
+            "service_points": 0,
+            "service_custom_sort": 29,
+            "icon": {
+              "id": 24528218,
+              "url": "https://f1.dikidi.ru/c13/v12265/38b20k11l6.jpg"
+            }
+          },
+          {
+            "id": 17881035,
+            "company_service_id": 17881035,
+            "name": "ДЕПИЛЯЦИЯ.  РУКИ ПОЛНОСТЬЮ",
+            "image": "https://f2.dikidi.net/c16/v15478/24ju8ok2fn.jpg",
+            "cost": 4500,
+            "time": 50,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "ДЕПИЛЯЦИЯ.  РУКИ ПОЛНОСТЬЮ",
+            "service_points": 0,
+            "service_custom_sort": 28,
+            "icon": {
+              "id": 30954637,
+              "url": "https://f2.dikidi.ru/c16/v15478/24ju8ok2fn.jpg"
+            }
+          },
+          {
+            "id": 19326900,
+            "company_service_id": 19326900,
+            "name": "ЛАЗЕР М:ЯГОДИЦЫ",
+            "image": "https://f2.dikidi.net/c18/v17025/6uha4bbgrg.jpg",
+            "cost": 3500,
+            "time": 25,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "ЛАЗЕР М:ЯГОДИЦЫ",
+            "service_points": 0,
+            "service_custom_sort": 15,
+            "icon": {
+              "id": 34049715,
+              "url": "https://f2.dikidi.ru/c18/v17025/6uha4bbgrg.jpg"
+            }
+          },
+          {
+            "id": 19326890,
+            "company_service_id": 19326890,
+            "name": "ЛАЗЕР М: СПИНА ПОЛНОСТЬЮ",
+            "image": "https://f2.dikidi.net/c18/v17025/71fb9rnnc6.jpg",
+            "cost": 7500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 7500,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: СПИНА ПОЛНОСТЬЮ",
+            "service_points": 0,
+            "service_custom_sort": 14,
+            "icon": {
+              "id": 34049696,
+              "url": "https://f2.dikidi.ru/c18/v17025/71fb9rnnc6.jpg"
+            }
+          },
+          {
+            "id": 19326883,
+            "company_service_id": 19326883,
+            "name": "ЛАЗЕР М: РУКИ ПОЛНОСТЬЮ",
+            "image": "https://f2.dikidi.net/c18/v17025/21c8gvhjls.jpg",
+            "cost": 6000,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 6000,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: РУКИ ПОЛНОСТЬЮ",
+            "service_points": 0,
+            "service_custom_sort": 13,
+            "icon": {
+              "id": 34049928,
+              "url": "https://f2.dikidi.ru/c18/v17025/21c8gvhjls.jpg"
+            }
+          },
+          {
+            "id": 19326826,
+            "company_service_id": 19326826,
+            "name": "ЛАЗЕР М: РУКИ ДО ЛОКТЯ",
+            "image": "https://f2.dikidi.net/c18/v17025/3idtbetqcc.jpg",
+            "cost": 4000,
+            "time": 20,
+            "floating": false,
+            "discount": 0,
+            "price": 4000,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: РУКИ ДО ЛОКТЯ",
+            "service_points": 0,
+            "service_custom_sort": 12,
+            "icon": {
+              "id": 34049891,
+              "url": "https://f2.dikidi.ru/c18/v17025/3idtbetqcc.jpg"
+            }
+          },
+          {
+            "id": 19326810,
+            "company_service_id": 19326810,
+            "name": "ЛАЗЕР М: НОГИ ПОЛНОСТЬЮ",
+            "image": "https://f2.dikidi.net/c18/v17025/3eqohlj3pd.jpg",
+            "cost": 11000,
+            "time": 70,
+            "floating": false,
+            "discount": 0,
+            "price": 11000,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: НОГИ ПОЛНОСТЬЮ",
+            "service_points": 0,
+            "service_custom_sort": 11,
+            "icon": {
+              "id": 34049794,
+              "url": "https://f2.dikidi.ru/c18/v17025/3eqohlj3pd.jpg"
+            }
+          },
+          {
+            "id": 19326803,
+            "company_service_id": 19326803,
+            "name": "ЛАЗЕР М: ЛИНИЯ ЖИВОТА",
+            "image": "https://f2.dikidi.net/c18/v17025/5jq49hrv0s.jpg",
+            "cost": 2000,
+            "time": 10,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: ЛИНИЯ ЖИВОТА",
+            "service_points": 0,
+            "service_custom_sort": 10,
+            "icon": {
+              "id": 34049376,
+              "url": "https://f2.dikidi.ru/c18/v17025/5jq49hrv0s.jpg"
+            }
+          },
+          {
+            "id": 19326787,
+            "company_service_id": 19326787,
+            "name": "ЛАЗЕР М: ЖИВОТ ПОЛНОСТЬЮ",
+            "image": "https://f2.dikidi.net/c18/v17025/5gciglpq4t.jpg",
+            "cost": 5000,
+            "time": 20,
+            "floating": false,
+            "discount": 0,
+            "price": 5000,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: ЖИВОТ ПОЛНОСТЬЮ",
+            "service_points": 0,
+            "service_custom_sort": 9,
+            "icon": {
+              "id": 34049362,
+              "url": "https://f2.dikidi.ru/c18/v17025/5gciglpq4t.jpg"
+            }
+          },
+          {
+            "id": 19326781,
+            "company_service_id": 19326781,
+            "name": "ЛАЗЕР М: ТОРС",
+            "image": "https://f2.dikidi.net/c18/v17025/130jspgge5.jpg",
+            "cost": 7000,
+            "time": 50,
+            "floating": false,
+            "discount": 0,
+            "price": 7000,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: ТОРС",
+            "service_points": 0,
+            "service_custom_sort": 8,
+            "icon": {
+              "id": 34049267,
+              "url": "https://f2.dikidi.ru/c18/v17025/130jspgge5.jpg"
+            }
+          },
+          {
+            "id": 19326765,
+            "company_service_id": 19326765,
+            "name": "ЛАЗЕР М: ГОЛЕНИ С КОЛЕНЯМИ",
+            "image": "https://f2.dikidi.net/c18/v17025/5s19290p7s.jpg",
+            "cost": 7500,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 7500,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: ГОЛЕНИ С КОЛЕНЯМИ",
+            "service_points": 0,
+            "service_custom_sort": 7,
+            "icon": {
+              "id": 34049234,
+              "url": "https://f2.dikidi.ru/c18/v17025/5s19290p7s.jpg"
+            }
+          },
+          {
+            "id": 19326753,
+            "company_service_id": 19326753,
+            "name": "ЛАЗЕР М: ЛОБОК ТОЛЬКО ВЕРХ",
+            "image": "https://f2.dikidi.net/c24/v23663/e5qasgb7ak.jpg",
+            "cost": 4500,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: ЛОБОК ТОЛЬКО ВЕРХ",
+            "service_points": 0,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 47324124,
+              "url": "https://f2.dikidi.ru/c24/v23663/e5qasgb7ak.jpg"
+            }
+          },
+          {
+            "id": 19325445,
+            "company_service_id": 19325445,
+            "name": "ЛАЗЕР М: ПОДМЫШКИ",
+            "image": "https://f2.dikidi.net/c18/v17025/4053meggg4.jpg",
+            "cost": 3500,
+            "time": 25,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: ПОДМЫШКИ",
+            "service_points": 0.01,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 34049178,
+              "url": "https://f2.dikidi.ru/c18/v17025/4053meggg4.jpg"
+            }
+          },
+          {
+            "id": 19322959,
+            "company_service_id": 19322959,
+            "name": "ЛАЗЕР М: ПАХ И МЕЖЪЯГОДИЧНАЯ ЗОНА",
+            "image": "https://f2.dikidi.net/c24/v23663/71gs34ulsb.jpg",
+            "cost": 7000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 7000,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: ПАХ И МЕЖЪЯГОДИЧНАЯ ЗОНА",
+            "service_points": 0,
+            "service_custom_sort": 4,
+            "icon": {
+              "id": 47324202,
+              "url": "https://f2.dikidi.ru/c24/v23663/71gs34ulsb.jpg"
+            }
+          },
+          {
+            "id": 19322855,
+            "company_service_id": 19322855,
+            "name": "ЛАЗЕР М: БЕДРА",
+            "image": "https://f2.dikidi.net/c18/v17019/2sj4vfqnv7.jpg",
+            "cost": 7500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 7500,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: БЕДРА",
+            "service_points": 0,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 34036810,
+              "url": "https://f2.dikidi.ru/c18/v17019/2sj4vfqnv7.jpg"
+            }
+          },
+          {
+            "id": 19624802,
+            "company_service_id": 19624802,
+            "name": "ЛАЗЕР М: Лицо",
+            "image": "https://f2.dikidi.net/c24/v23454/2g9vuv2gtc.jpg",
+            "cost": 6000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 6000,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: Лицо",
+            "service_points": 0.04,
+            "service_custom_sort": 2,
+            "icon": {
+              "id": 46907632,
+              "url": "https://f2.dikidi.ru/c24/v23454/2g9vuv2gtc.jpg"
+            }
+          },
+          {
+            "id": 21723236,
+            "company_service_id": 21723236,
+            "name": "ЛАЗЕР М: ЛОБОК + ПАХОВЫЕ СКЛАДКИ",
+            "image": "https://f2.dikidi.net/c26/v25527/46et32o48f.jpg",
+            "cost": 5500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 5500,
+            "share": 0,
+            "service_value": "ЛАЗЕР М: ЛОБОК + ПАХОВЫЕ СКЛАДКИ",
+            "service_points": 0,
+            "service_custom_sort": 1,
+            "icon": {
+              "id": 51053938,
+              "url": "https://f2.dikidi.ru/c26/v25527/46et32o48f.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4706519",
+        "name": "Лазерная эпиляция",
+        "category_value": "Лазерная эпиляция",
+        "category_custom_sort": 13,
+        "field_sort_service": "custom_sort",
+        "services": [
+          {
+            "id": 19164285,
+            "company_service_id": 19164285,
+            "name": "(КОМПЛЕКС -10%) подмышки + бикини глубокое",
+            "image": "https://f2.dikidi.net/c17/v16807/9rup4e90g7.jpg",
+            "cost": 6500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 6500,
+            "share": 0,
+            "service_value": "(КОМПЛЕКС -10%) подмышки + бикини глубокое",
+            "service_points": 1.11,
+            "service_custom_sort": 20,
+            "icon": {
+              "id": 33613231,
+              "url": "https://f2.dikidi.ru/c17/v16807/9rup4e90g7.jpg"
+            }
+          },
+          {
+            "id": 19164309,
+            "company_service_id": 19164309,
+            "name": "(КОМПЛЕКС -10%) подмышки + бикини глубокое + голени",
+            "image": "https://f2.dikidi.net/c17/v16807/768rsdgpmd.jpg",
+            "cost": 11500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 11500,
+            "share": 0,
+            "service_value": "(КОМПЛЕКС -10%) подмышки + бикини глубокое + голени",
+            "service_points": 1.44,
+            "service_custom_sort": 19,
+            "icon": {
+              "id": 33613227,
+              "url": "https://f2.dikidi.ru/c17/v16807/768rsdgpmd.jpg"
+            }
+          },
+          {
+            "id": 19164321,
+            "company_service_id": 19164321,
+            "name": "(КОМПЛЕКС -10%) подмышки + бикини глубокое + ноги полностью",
+            "image": "https://f2.dikidi.net/c17/v16807/390m10am9i.jpg",
+            "cost": 14500,
+            "time": 130,
+            "floating": false,
+            "discount": 0,
+            "price": 14500,
+            "share": 0,
+            "service_value": "(КОМПЛЕКС -10%) подмышки + бикини глубокое + ноги полностью",
+            "service_points": 0.95,
+            "service_custom_sort": 18,
+            "icon": {
+              "id": 33613211,
+              "url": "https://f2.dikidi.ru/c17/v16807/390m10am9i.jpg"
+            }
+          },
+          {
+            "id": 19164347,
+            "company_service_id": 19164347,
+            "name": "(КОМПЛЕКС -10%) подмышки + бикини глубокое + ноги полностью + руки до локтя",
+            "image": "https://f2.dikidi.net/c17/v16807/7m1rd6u3uo.jpg",
+            "cost": 17000,
+            "time": 160,
+            "floating": false,
+            "discount": 0,
+            "price": 17000,
+            "share": 0,
+            "service_value": "(КОМПЛЕКС -10%) подмышки + бикини глубокое + ноги полностью + руки до локтя",
+            "service_points": 0.05,
+            "service_custom_sort": 17,
+            "icon": {
+              "id": 33613215,
+              "url": "https://f2.dikidi.ru/c17/v16807/7m1rd6u3uo.jpg"
+            }
+          },
+          {
+            "id": 19164227,
+            "company_service_id": 19164227,
+            "name": "ЛАЗЕР: Бикини глубокое с межягодичной зоной",
+            "image": "https://f2.dikidi.net/c17/v16807/60kcte4lgl.jpg",
+            "cost": 5000,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 5000,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Бикини глубокое с межягодичной зоной",
+            "service_points": 1.48,
+            "service_custom_sort": 16,
+            "icon": {
+              "id": 33613099,
+              "url": "https://f2.dikidi.ru/c17/v16807/60kcte4lgl.jpg"
+            }
+          },
+          {
+            "id": 19164251,
+            "company_service_id": 19164251,
+            "name": "ЛАЗЕР: Бикини классика",
+            "image": "https://f2.dikidi.net/c17/v16807/4svrn3tprv.jpg",
+            "cost": 3000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 3000,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Бикини классика",
+            "service_points": 0.02,
+            "service_custom_sort": 15,
+            "icon": {
+              "id": 33613189,
+              "url": "https://f2.dikidi.ru/c17/v16807/4svrn3tprv.jpg"
+            }
+          },
+          {
+            "id": 19164169,
+            "company_service_id": 19164169,
+            "name": "ЛАЗЕР: Бёдра",
+            "image": "https://f2.dikidi.net/c17/v16807/37d2bp3i8n.jpg",
+            "cost": 5500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 5500,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Бёдра",
+            "service_points": 0,
+            "service_custom_sort": 14,
+            "icon": {
+              "id": 33612037,
+              "url": "https://f2.dikidi.ru/c17/v16807/37d2bp3i8n.jpg"
+            }
+          },
+          {
+            "id": 19164181,
+            "company_service_id": 19164181,
+            "name": "ЛАЗЕР: Голени с коленями",
+            "image": "https://f2.dikidi.net/c17/v16807/7o72lefict.jpg",
+            "cost": 5500,
+            "time": 50,
+            "floating": false,
+            "discount": 0,
+            "price": 5500,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Голени с коленями",
+            "service_points": 0.74,
+            "service_custom_sort": 13,
+            "icon": {
+              "id": 33613112,
+              "url": "https://f2.dikidi.ru/c17/v16807/7o72lefict.jpg"
+            }
+          },
+          {
+            "id": 19164207,
+            "company_service_id": 19164207,
+            "name": "ЛАЗЕР: Грудь",
+            "image": "https://f2.dikidi.net/c17/v16807/110b7t3hcb.jpg",
+            "cost": 2000,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Грудь",
+            "service_points": 0.01,
+            "service_custom_sort": 12,
+            "icon": {
+              "id": 33612005,
+              "url": "https://f2.dikidi.ru/c17/v16807/110b7t3hcb.jpg"
+            }
+          },
+          {
+            "id": 19164109,
+            "company_service_id": 19164109,
+            "name": "ЛАЗЕР: Живот полностью",
+            "image": "https://f2.dikidi.net/c17/v16807/10lm53bl79.jpg",
+            "cost": 3000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 3000,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Живот полностью",
+            "service_points": 0.02,
+            "service_custom_sort": 11,
+            "icon": {
+              "id": 33612017,
+              "url": "https://f2.dikidi.ru/c17/v16807/10lm53bl79.jpg"
+            }
+          },
+          {
+            "id": 19164129,
+            "company_service_id": 19164129,
+            "name": "ЛАЗЕР: Линия живота",
+            "image": "https://f2.dikidi.net/c17/v16807/3tqiiai1pv.jpg",
+            "cost": 1500,
+            "time": 20,
+            "floating": false,
+            "discount": 0,
+            "price": 1500,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Линия живота",
+            "service_points": 0.02,
+            "service_custom_sort": 10,
+            "icon": {
+              "id": 33613277,
+              "url": "https://f2.dikidi.ru/c17/v16807/3tqiiai1pv.jpg"
+            }
+          },
+          {
+            "id": 19621017,
+            "company_service_id": 19621017,
+            "name": "ЛАЗЕР: Лицо",
+            "image": "https://f2.dikidi.net/c24/v23454/1u2dsc7v3m.jpg",
+            "cost": 4000,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 4000,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Лицо",
+            "service_points": 0.17,
+            "service_custom_sort": 9,
+            "icon": {
+              "id": 46907380,
+              "url": "https://f2.dikidi.ru/c24/v23454/1u2dsc7v3m.jpg"
+            }
+          },
+          {
+            "id": 19624798,
+            "company_service_id": 19624798,
+            "name": "ЛАЗЕР: Лицо 1 зона",
+            "image": "https://f2.dikidi.net/c24/v23454/1bjfuferu1.jpg",
+            "cost": 2000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Лицо 1 зона",
+            "service_points": 0.21,
+            "service_custom_sort": 8,
+            "icon": {
+              "id": 46907414,
+              "url": "https://f2.dikidi.ru/c24/v23454/1bjfuferu1.jpg"
+            }
+          },
+          {
+            "id": 19164139,
+            "company_service_id": 19164139,
+            "name": "ЛАЗЕР: Ноги полностью",
+            "image": "https://f2.dikidi.net/c17/v16807/1fnphb9bd6.jpg",
+            "cost": 8500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 8500,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Ноги полностью",
+            "service_points": 0.64,
+            "service_custom_sort": 7,
+            "icon": {
+              "id": 33613282,
+              "url": "https://f2.dikidi.ru/c17/v16807/1fnphb9bd6.jpg"
+            }
+          },
+          {
+            "id": 19163907,
+            "company_service_id": 19163907,
+            "name": "ЛАЗЕР: Подмышки",
+            "image": "https://f2.dikidi.net/c17/v16807/32kfu3tvab.jpg",
+            "cost": 2500,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2500,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Подмышки",
+            "service_points": 0.83,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 33613244,
+              "url": "https://f2.dikidi.ru/c17/v16807/32kfu3tvab.jpg"
+            }
+          },
+          {
+            "id": 19163881,
+            "company_service_id": 19163881,
+            "name": "ЛАЗЕР: Руки до локтя",
+            "image": "https://f2.dikidi.net/c17/v16807/43tbgtbvi6.jpg",
+            "cost": 3000,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 3000,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Руки до локтя",
+            "service_points": 0.05,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 33613130,
+              "url": "https://f2.dikidi.ru/c17/v16807/43tbgtbvi6.jpg"
+            }
+          },
+          {
+            "id": 19163865,
+            "company_service_id": 19163865,
+            "name": "ЛАЗЕР: Руки полностью",
+            "image": "https://f2.dikidi.net/c17/v16807/1ngepdo8pf.jpg",
+            "cost": 4500,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Руки полностью",
+            "service_points": 0.03,
+            "service_custom_sort": 4,
+            "icon": {
+              "id": 33613153,
+              "url": "https://f2.dikidi.ru/c17/v16807/1ngepdo8pf.jpg"
+            }
+          },
+          {
+            "id": 19164195,
+            "company_service_id": 19164195,
+            "name": "ЛАЗЕР: Спина полностью",
+            "image": "https://f2.dikidi.net/c17/v16807/460kh8curd.jpg",
+            "cost": 5500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 5500,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Спина полностью",
+            "service_points": 0,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 33613275,
+              "url": "https://f2.dikidi.ru/c17/v16807/460kh8curd.jpg"
+            }
+          },
+          {
+            "id": 19624813,
+            "company_service_id": 19624813,
+            "name": "ЛАЗЕР: Шея",
+            "image": "https://f2.dikidi.net/c24/v23454/50jnv9oo62.jpg",
+            "cost": 3500,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Шея",
+            "service_points": 0,
+            "service_custom_sort": 2,
+            "icon": {
+              "id": 46907456,
+              "url": "https://f2.dikidi.ru/c24/v23454/50jnv9oo62.jpg"
+            }
+          },
+          {
+            "id": 19164263,
+            "company_service_id": 19164263,
+            "name": "ЛАЗЕР: Ягодицы",
+            "image": "https://f2.dikidi.net/c17/v16807/75ndbkactl.jpg",
+            "cost": 2500,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2500,
+            "share": 0,
+            "service_value": "ЛАЗЕР: Ягодицы",
+            "service_points": 0,
+            "service_custom_sort": 1,
+            "icon": {
+              "id": 33613284,
+              "url": "https://f2.dikidi.ru/c17/v16807/75ndbkactl.jpg"
+            }
+          },
+          {
+            "id": 22182784,
+            "company_service_id": 22182784,
+            "name": "Лазер: пальцы ног + свод стопы",
+            "image": "https://f2.dikidi.net/c26/v25527/32ud37hh6r.jpg",
+            "cost": 3000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 3000,
+            "share": 0,
+            "service_value": "Лазер: пальцы ног + свод стопы",
+            "service_points": 0,
+            "service_custom_sort": 0,
+            "icon": {
+              "id": 51053334,
+              "url": "https://f2.dikidi.ru/c26/v25527/32ud37hh6r.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3100234",
+        "name": "Электроэпиляция",
+        "category_value": "Электроэпиляция",
+        "category_custom_sort": 12,
+        "field_sort_service": "custom_sort",
+        "services": [
+          {
+            "id": 12508134,
+            "company_service_id": 12508134,
+            "name": "ЭЛЕКТРО: 5 - 30 МИНУТ",
+            "image": "https://f1.dikidi.net/c13/v12830/27rcuts2b1.jpg",
+            "cost": 3000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 3000,
+            "share": 0,
+            "service_value": "ЭЛЕКТРО: 5 - 30 МИНУТ",
+            "service_points": 2.79,
+            "service_custom_sort": 8,
+            "icon": {
+              "id": 25659164,
+              "url": "https://f1.dikidi.ru/c13/v12830/27rcuts2b1.jpg"
+            }
+          },
+          {
+            "id": 12508124,
+            "company_service_id": 12508124,
+            "name": "ЭЛЕКТРО: 1 ЧАС",
+            "image": "https://f1.dikidi.net/c13/v12830/3l2god55is.jpg",
+            "cost": 5500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 5500,
+            "share": 0,
+            "service_value": "ЭЛЕКТРО: 1 ЧАС",
+            "service_points": 2.54,
+            "service_custom_sort": 7,
+            "icon": {
+              "id": 25659094,
+              "url": "https://f1.dikidi.ru/c13/v12830/3l2god55is.jpg"
+            }
+          },
+          {
+            "id": 12508158,
+            "company_service_id": 12508158,
+            "name": "ЭЛЕКТРО: 1.5 ЧАСА",
+            "image": "https://f1.dikidi.net/c13/v12830/34ifeq2gil.jpg",
+            "cost": 8000,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 8000,
+            "share": 0,
+            "service_value": "ЭЛЕКТРО: 1.5 ЧАСА",
+            "service_points": 1.37,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 25659194,
+              "url": "https://f1.dikidi.ru/c13/v12830/34ifeq2gil.jpg"
+            }
+          },
+          {
+            "id": 12508182,
+            "company_service_id": 12508182,
+            "name": "ЭЛЕКТРО: 2 ЧАСА",
+            "image": "https://f1.dikidi.net/c13/v12830/1hkj76mvn0.jpg",
+            "cost": 10000,
+            "time": 120,
+            "floating": false,
+            "discount": 0,
+            "price": 10000,
+            "share": 0,
+            "service_value": "ЭЛЕКТРО: 2 ЧАСА",
+            "service_points": 4.15,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 25659136,
+              "url": "https://f1.dikidi.ru/c13/v12830/1hkj76mvn0.jpg"
+            }
+          },
+          {
+            "id": 16539742,
+            "company_service_id": 16539742,
+            "name": "ЭЛЕКТРО: 3 ЧАСА",
+            "image": "https://f1.dikidi.net/c13/v12830/6vd0hreciu.jpg",
+            "cost": 15000,
+            "time": 180,
+            "floating": false,
+            "discount": 0,
+            "price": 15000,
+            "share": 0,
+            "service_value": "ЭЛЕКТРО: 3 ЧАСА",
+            "service_points": 0.06,
+            "service_custom_sort": 4,
+            "icon": {
+              "id": 25659216,
+              "url": "https://f1.dikidi.ru/c13/v12830/6vd0hreciu.jpg"
+            }
+          },
+          {
+            "id": 20117102,
+            "company_service_id": 20117102,
+            "name": "ЭЛЕКТРО: 3,5 ЧАСА",
+            "image": "https://f2.dikidi.net/c26/v25527/3k3bm0ebcf.jpg",
+            "cost": 18000,
+            "time": 210,
+            "floating": false,
+            "discount": 0,
+            "price": 18000,
+            "share": 0,
+            "service_value": "ЭЛЕКТРО: 3,5 ЧАСА",
+            "service_points": 0,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 51053870,
+              "url": "https://f2.dikidi.ru/c26/v25527/3k3bm0ebcf.jpg"
+            }
+          },
+          {
+            "id": 16979348,
+            "company_service_id": 16979348,
+            "name": "ЭЛЕКТРО: 4 ЧАСА",
+            "image": "https://f1.dikidi.net/c13/v12830/2ndi92i39s.jpg",
+            "cost": 20000,
+            "time": 240,
+            "floating": false,
+            "discount": 0,
+            "price": 20000,
+            "share": 0,
+            "service_value": "ЭЛЕКТРО: 4 ЧАСА",
+            "service_points": 0.01,
+            "service_custom_sort": 2,
+            "icon": {
+              "id": 25659186,
+              "url": "https://f1.dikidi.ru/c13/v12830/2ndi92i39s.jpg"
+            }
+          },
+          {
+            "id": 22343672,
+            "company_service_id": 22343672,
+            "name": "ЭЛЕКТРО: 2,5 ЧАСА",
+            "image": "",
+            "cost": 15000,
+            "time": 150,
+            "floating": false,
+            "discount": 0,
+            "price": 15000,
+            "share": 0,
+            "service_value": "ЭЛЕКТРО: 2,5 ЧАСА",
+            "service_points": 0,
+            "service_custom_sort": 0
+          }
+        ]
+      },
+      {
+        "id": "3096336",
+        "name": "Восковая депиляция",
+        "category_value": "Восковая депиляция",
+        "category_custom_sort": 11,
+        "field_sort_service": "custom_sort",
+        "services": [
+          {
+            "id": 12268156,
+            "company_service_id": 12268156,
+            "name": "ВОСК КОМПЛЕКС МИНИ (подмышки + гл.бикини)",
+            "image": "https://f2.dikidi.net/c24/v23493/51f4284b5t.jpg",
+            "cost": 3300,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 3300,
+            "share": 0,
+            "service_value": "ВОСК КОМПЛЕКС МИНИ (подмышки + гл.бикини)",
+            "service_points": 0.08,
+            "service_custom_sort": 16,
+            "icon": {
+              "id": 46984212,
+              "url": "https://f2.dikidi.ru/c24/v23493/51f4284b5t.jpg"
+            }
+          },
+          {
+            "id": 19670711,
+            "company_service_id": 19670711,
+            "name": "ВОСК КОМПЛЕКС МИДИ (подмышки + гл. бикини + голени)",
+            "image": "https://f2.dikidi.net/c24/v23493/3rgpj0ndqk.jpg",
+            "cost": 5000,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 5000,
+            "share": 0,
+            "service_value": "ВОСК КОМПЛЕКС МИДИ (подмышки + гл. бикини + голени)",
+            "service_points": 0,
+            "service_custom_sort": 15,
+            "icon": {
+              "id": 46984198,
+              "url": "https://f2.dikidi.ru/c24/v23493/3rgpj0ndqk.jpg"
+            }
+          },
+          {
+            "id": 12268232,
+            "company_service_id": 12268232,
+            "name": "ВОСК КОМПЛЕКС МАКСИ (подмышки + гл. бикини + ноги полностью)",
+            "image": "https://f2.dikidi.net/c24/v23493/6nkn7j9qkr.jpg",
+            "cost": 5800,
+            "time": 120,
+            "floating": false,
+            "discount": 0,
+            "price": 5800,
+            "share": 0,
+            "service_value": "ВОСК КОМПЛЕКС МАКСИ (подмышки + гл. бикини + ноги полностью)",
+            "service_points": 0.02,
+            "service_custom_sort": 14,
+            "icon": {
+              "id": 46984188,
+              "url": "https://f2.dikidi.ru/c24/v23493/6nkn7j9qkr.jpg"
+            }
+          },
+          {
+            "id": 12268254,
+            "company_service_id": 12268254,
+            "name": "ВОСК КОМПЛЕКС СУПЕР (подмышки + гл. бикини + ноги и руки)",
+            "image": "https://f2.dikidi.net/c24/v23493/1ml9dnh01u.jpg",
+            "cost": 8500,
+            "time": 150,
+            "floating": false,
+            "discount": 0,
+            "price": 8500,
+            "share": 0,
+            "service_value": "ВОСК КОМПЛЕКС СУПЕР (подмышки + гл. бикини + ноги и руки)",
+            "service_points": 0.07,
+            "service_custom_sort": 13,
+            "icon": {
+              "id": 46984224,
+              "url": "https://f2.dikidi.ru/c24/v23493/1ml9dnh01u.jpg"
+            }
+          },
+          {
+            "id": 12267908,
+            "company_service_id": 12267908,
+            "name": "Воск: Поясница",
+            "image": "https://f1.dikidi.net/c13/v12831/nk1l47p1u0.jpg",
+            "cost": 1500,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 1500,
+            "share": 0,
+            "service_value": "Воск: Поясница",
+            "service_points": 0,
+            "service_custom_sort": 12,
+            "icon": {
+              "id": 25661720,
+              "url": "https://f1.dikidi.ru/c13/v12831/nk1l47p1u0.jpg"
+            }
+          },
+          {
+            "id": 12267894,
+            "company_service_id": 12267894,
+            "name": "Воск: Ягодицы",
+            "image": "https://f1.dikidi.net/c13/v12831/5flj5845il.jpg",
+            "cost": 2000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "Воск: Ягодицы",
+            "service_points": 0.05,
+            "service_custom_sort": 11,
+            "icon": {
+              "id": 25661748,
+              "url": "https://f1.dikidi.ru/c13/v12831/5flj5845il.jpg"
+            }
+          },
+          {
+            "id": 12267884,
+            "company_service_id": 12267884,
+            "name": "Воск: Ноги полностью",
+            "image": "https://f1.dikidi.net/c13/v12831/3lvfai12vv.jpg",
+            "cost": 3500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "Воск: Ноги полностью",
+            "service_points": 0.05,
+            "service_custom_sort": 10,
+            "icon": {
+              "id": 25661692,
+              "url": "https://f1.dikidi.ru/c13/v12831/3lvfai12vv.jpg"
+            }
+          },
+          {
+            "id": 12267870,
+            "company_service_id": 12267870,
+            "name": "Воск: Ноги до колен",
+            "image": "https://f1.dikidi.net/c13/v12831/1ocur4kubm.jpg",
+            "cost": 2500,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 2500,
+            "share": 0,
+            "service_value": "Воск: Ноги до колен",
+            "service_points": 0.01,
+            "service_custom_sort": 9,
+            "icon": {
+              "id": 25661246,
+              "url": "https://f1.dikidi.ru/c13/v12831/1ocur4kubm.jpg"
+            }
+          },
+          {
+            "id": 12267850,
+            "company_service_id": 12267850,
+            "name": "Воск: Живот",
+            "image": "https://f2.dikidi.net/c24/v23492/30vd072lop.jpg",
+            "cost": 2000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "Воск: Живот",
+            "service_points": 0,
+            "service_custom_sort": 8,
+            "icon": {
+              "id": 46983978,
+              "url": "https://f2.dikidi.ru/c24/v23492/30vd072lop.jpg"
+            }
+          },
+          {
+            "id": 12267824,
+            "company_service_id": 12267824,
+            "name": "Воск: Руки полностью",
+            "image": "https://f1.dikidi.net/c13/v12831/312d2l52o0.jpg",
+            "cost": 3000,
+            "time": 50,
+            "floating": false,
+            "discount": 0,
+            "price": 3000,
+            "share": 0,
+            "service_value": "Воск: Руки полностью",
+            "service_points": 0,
+            "service_custom_sort": 7,
+            "icon": {
+              "id": 25661738,
+              "url": "https://f1.dikidi.ru/c13/v12831/312d2l52o0.jpg"
+            }
+          },
+          {
+            "id": 12267802,
+            "company_service_id": 12267802,
+            "name": "Воск: Руки до локтя",
+            "image": "https://f1.dikidi.net/c13/v12831/3gdhlql9ti.jpg",
+            "cost": 2000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "Воск: Руки до локтя",
+            "service_points": 0,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 25661730,
+              "url": "https://f1.dikidi.ru/c13/v12831/3gdhlql9ti.jpg"
+            }
+          },
+          {
+            "id": 12267778,
+            "company_service_id": 12267778,
+            "name": "Воск: Лицо (1 зона)",
+            "image": "https://f2.dikidi.net/c24/v23492/5e3cuevf49.jpg",
+            "cost": 1000,
+            "time": 20,
+            "floating": false,
+            "discount": 0,
+            "price": 1000,
+            "share": 0,
+            "service_value": "Воск: Лицо (1 зона)",
+            "service_points": 0,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 46983818,
+              "url": "https://f2.dikidi.ru/c24/v23492/5e3cuevf49.jpg"
+            }
+          },
+          {
+            "id": 12267740,
+            "company_service_id": 12267740,
+            "name": "Воск: Подмышки",
+            "image": "https://f1.dikidi.net/c13/v12831/1c0mud7jdt.jpg",
+            "cost": 1500,
+            "time": 20,
+            "floating": false,
+            "discount": 0,
+            "price": 1500,
+            "share": 0,
+            "service_value": "Воск: Подмышки",
+            "service_points": 0,
+            "service_custom_sort": 4,
+            "icon": {
+              "id": 25661712,
+              "url": "https://f1.dikidi.ru/c13/v12831/1c0mud7jdt.jpg"
+            }
+          },
+          {
+            "id": 12267644,
+            "company_service_id": 12267644,
+            "name": "Воск: Бикини глубокое",
+            "image": "https://f2.dikidi.net/c24/v23492/7ffm6vko14.jpg",
+            "cost": 2500,
+            "time": 50,
+            "floating": false,
+            "discount": 0,
+            "price": 2500,
+            "share": 0,
+            "service_value": "Воск: Бикини глубокое",
+            "service_points": 0.05,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 46983940,
+              "url": "https://f2.dikidi.ru/c24/v23492/7ffm6vko14.jpg"
+            }
+          },
+          {
+            "id": 12267642,
+            "company_service_id": 12267642,
+            "name": "Воск: Бикини классика",
+            "image": "https://f2.dikidi.net/c24/v23492/314409lnt7.jpg",
+            "cost": 2000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "Воск: Бикини классика",
+            "service_points": 0,
+            "service_custom_sort": 2,
+            "icon": {
+              "id": 46983956,
+              "url": "https://f2.dikidi.ru/c24/v23492/314409lnt7.jpg"
+            }
+          },
+          {
+            "id": 21282151,
+            "company_service_id": 21282151,
+            "name": "Воск: Лицо полностью",
+            "image": "https://f2.dikidi.net/c24/v23492/42qgk5o9ll.jpg",
+            "cost": 3500,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "Воск: Лицо полностью",
+            "service_points": 0,
+            "service_custom_sort": 1,
+            "icon": {
+              "id": 46983830,
+              "url": "https://f2.dikidi.ru/c24/v23492/42qgk5o9ll.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4352909",
+        "name": "Комплекс: брови, ресницы, макияж",
+        "category_value": "Комплекс: брови, ресницы, макияж",
+        "category_custom_sort": 10,
+        "field_sort_service": "value",
+        "services": [
+          {
+            "id": 21351614,
+            "company_service_id": 21351614,
+            "name": "ДОЛГОВРЕМЕННАЯ СТРЕЛКА + ЛАМИ РЕСНИЦ",
+            "image": "https://f2.dikidi.net/c24/v23492/6h172vs7n8.jpg",
+            "cost": 6500,
+            "time": 120,
+            "floating": false,
+            "discount": 0,
+            "price": 6500,
+            "share": 0,
+            "service_value": "ДОЛГОВРЕМЕННАЯ СТРЕЛКА + ЛАМИ РЕСНИЦ",
+            "service_points": 0,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 46983738,
+              "url": "https://f2.dikidi.ru/c24/v23492/6h172vs7n8.jpg"
+            }
+          },
+          {
+            "id": 16268116,
+            "company_service_id": 16268116,
+            "name": "ДОЛГОВРЕМЕННАЯ СТРЕЛКА + ОКРАШИВАНИЕ РЕСНИЦ",
+            "image": "https://f2.dikidi.net/c24/v23492/6un1foblim.jpg",
+            "cost": 3500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "ДОЛГОВРЕМЕННАЯ СТРЕЛКА + ОКРАШИВАНИЕ РЕСНИЦ",
+            "service_points": 0,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 46983742,
+              "url": "https://f2.dikidi.ru/c24/v23492/6un1foblim.jpg"
+            }
+          },
+          {
+            "id": 21665467,
+            "company_service_id": 21665467,
+            "name": "КОМПЛЕКС. ДВОЙНОЕ ЛАМИ РЕСНИЦ + КОРРЕКЦИЯ И ОКРАШИВАНИЕ БРОВЕЙ",
+            "image": "https://f2.dikidi.net/c24/v23492/6fe6624nlk.jpg",
+            "cost": 9500,
+            "time": 150,
+            "floating": false,
+            "discount": 0,
+            "price": 9500,
+            "share": 0,
+            "service_value": "КОМПЛЕКС. ДВОЙНОЕ ЛАМИ РЕСНИЦ + КОРРЕКЦИЯ И ОКРАШИВАНИЕ БРОВЕЙ",
+            "service_points": 0.01,
+            "service_custom_sort": 4,
+            "icon": {
+              "id": 46983642,
+              "url": "https://f2.dikidi.ru/c24/v23492/6fe6624nlk.jpg"
+            }
+          },
+          {
+            "id": 15543694,
+            "company_service_id": 15543694,
+            "name": "КОМПЛЕКС. ЛАМИ РЕСНИЦ + КОРРЕКЦИЯ И ОКРАШИВАНИЕ БРОВЕЙ",
+            "image": "https://f1.dikidi.net/c13/v12258/7ksnsnddh6.jpg",
+            "cost": 7500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 7500,
+            "share": 0,
+            "service_value": "КОМПЛЕКС. ЛАМИ РЕСНИЦ + КОРРЕКЦИЯ И ОКРАШИВАНИЕ БРОВЕЙ",
+            "service_points": 1.22,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 24514298,
+              "url": "https://f1.dikidi.ru/c13/v12258/7ksnsnddh6.jpg"
+            }
+          },
+          {
+            "id": 15543718,
+            "company_service_id": 15543718,
+            "name": "КОМПЛЕКС. ЛАМИНИРОВАНИЕ РЕСНИЦ И БРОВЕЙ",
+            "image": "https://f1.dikidi.net/c13/v12258/4u9uk2lfbg.jpg",
+            "cost": 9000,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 9000,
+            "share": 0,
+            "service_value": "КОМПЛЕКС. ЛАМИНИРОВАНИЕ РЕСНИЦ И БРОВЕЙ",
+            "service_points": 0.58,
+            "service_custom_sort": 2,
+            "icon": {
+              "id": 24514356,
+              "url": "https://f1.dikidi.ru/c13/v12258/4u9uk2lfbg.jpg"
+            }
+          },
+          {
+            "id": 17765168,
+            "company_service_id": 17765168,
+            "name": "МАКИЯЖ NUDE + БРОВИ (КОРРЕКЦИЯ И ОКРАШИВАНИЕ)",
+            "image": "https://f1.dikidi.net/c15/v14117/4cbcqanncb.jpg",
+            "cost": 6500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 6500,
+            "share": 0,
+            "service_value": "МАКИЯЖ NUDE + БРОВИ (КОРРЕКЦИЯ И ОКРАШИВАНИЕ)",
+            "service_points": 0,
+            "service_custom_sort": 1,
+            "icon": {
+              "id": 28232011,
+              "url": "https://f1.dikidi.ru/c15/v14117/4cbcqanncb.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2483924",
+        "name": "Макияж",
+        "category_value": "Макияж",
+        "category_custom_sort": 9,
+        "field_sort_service": "custom_sort",
+        "services": [
+          {
+            "id": 10022018,
+            "company_service_id": 10022018,
+            "name": "1. МАКИЯЖ (ТОП ВИЗАЖИСТ)",
+            "image": "https://f1.dikidi.app/c8/v7037/13b4e474b7.jpg",
+            "cost": 6000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 6000,
+            "share": 0,
+            "service_value": "1. МАКИЯЖ (ТОП ВИЗАЖИСТ)",
+            "service_points": 0.04,
+            "service_custom_sort": 9,
+            "icon": {
+              "id": 14072631,
+              "url": "https://f1.dikidi.ru/c8/v7037/13b4e474b7.jpg"
+            }
+          },
+          {
+            "id": 17844720,
+            "company_service_id": 17844720,
+            "name": "1.1 МАКИЯЖ (ВИЗАЖИСТ)",
+            "image": "https://f1.dikidi.net/c15/v14227/1db2eujvr9.jpg",
+            "cost": 4500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "1.1 МАКИЯЖ (ВИЗАЖИСТ)",
+            "service_points": 0,
+            "service_custom_sort": 8,
+            "icon": {
+              "id": 28452608,
+              "url": "https://f1.dikidi.ru/c15/v14227/1db2eujvr9.jpg"
+            }
+          },
+          {
+            "id": 13150426,
+            "company_service_id": 13150426,
+            "name": "3. МЕЙКАП КОНСУЛЬТАЦИЯ",
+            "image": "https://f1.dikidi.net/c13/v12258/4ohvlqko7i.jpg",
+            "cost": 8000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 8000,
+            "share": 0,
+            "service_value": "3. МЕЙКАП КОНСУЛЬТАЦИЯ",
+            "service_points": 0,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 24514004,
+              "url": "https://f1.dikidi.ru/c13/v12258/4ohvlqko7i.jpg"
+            }
+          },
+          {
+            "id": 11870506,
+            "company_service_id": 11870506,
+            "name": "4. ШОППИНГ СОПРОВОЖДЕНИЕ",
+            "image": "https://f1.dikidi.net/c9/v8149/1ddjpqocrv.jpg",
+            "cost": 10000,
+            "time": 120,
+            "floating": false,
+            "discount": 0,
+            "price": 10000,
+            "share": 0,
+            "service_value": "4. ШОППИНГ СОПРОВОЖДЕНИЕ",
+            "service_points": 0,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 16297537,
+              "url": "https://f1.dikidi.ru/c9/v8149/1ddjpqocrv.jpg"
+            }
+          },
+          {
+            "id": 10320190,
+            "company_service_id": 10320190,
+            "name": "2. УКЛАДКА",
+            "image": "https://f1.dikidi.net/c7/v6005/36jbh82gr6.jpg",
+            "cost": 6000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 6000,
+            "share": 0,
+            "service_value": "2. УКЛАДКА",
+            "service_points": 0.03,
+            "service_custom_sort": 4,
+            "icon": {
+              "id": 12009625,
+              "url": "https://f1.dikidi.ru/c7/v6005/36jbh82gr6.jpg"
+            }
+          },
+          {
+            "id": 10022076,
+            "company_service_id": 10022076,
+            "name": "5. УРОК \"МАКИЯЖ ДЛЯ СЕБЯ\"",
+            "image": "https://f1.dikidi.net/c9/v8149/2atltu9ff6.jpg",
+            "cost": 17500,
+            "time": 150,
+            "floating": false,
+            "discount": 0,
+            "price": 17500,
+            "share": 0,
+            "service_value": "5. УРОК \"МАКИЯЖ ДЛЯ СЕБЯ\"",
+            "service_points": 0.06,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 16297517,
+              "url": "https://f1.dikidi.ru/c9/v8149/2atltu9ff6.jpg"
+            }
+          },
+          {
+            "id": 10022064,
+            "company_service_id": 10022064,
+            "name": "ВЫЕЗД",
+            "image": "https://f1.dikidi.net/c5/v4809/4pn1dv2dbm.jpg",
+            "cost": 4000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 4000,
+            "share": 0,
+            "service_value": "ВЫЕЗД",
+            "service_points": 0,
+            "service_custom_sort": 2,
+            "icon": {
+              "id": 9617435,
+              "url": "https://f1.dikidi.ru/c5/v4809/4pn1dv2dbm.jpg"
+            }
+          },
+          {
+            "id": 10022036,
+            "company_service_id": 10022036,
+            "name": "СОПРОВОЖДЕНИЕ",
+            "image": "https://f1.dikidi.net/c5/v4809/3bo94t5st2.jpg",
+            "cost": 2000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "СОПРОВОЖДЕНИЕ",
+            "service_points": 0,
+            "service_custom_sort": 1,
+            "icon": {
+              "id": 9617369,
+              "url": "https://f1.dikidi.ru/c5/v4809/3bo94t5st2.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4352907",
+        "name": "Ресницы",
+        "category_value": "Ресницы",
+        "category_custom_sort": 8,
+        "field_sort_service": "value",
+        "services": [
+          {
+            "id": 16268090,
+            "company_service_id": 16268090,
+            "name": "ДОЛГОВРЕМЕННЫЕ СТРЕЛКИ",
+            "image": "https://f1.dikidi.net/c13/v12258/2dq8k30nf2.jpg",
+            "cost": 2000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "ДОЛГОВРЕМЕННЫЕ СТРЕЛКИ",
+            "service_points": 0,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 24514110,
+              "url": "https://f1.dikidi.ru/c13/v12258/2dq8k30nf2.jpg"
+            }
+          },
+          {
+            "id": 21633846,
+            "company_service_id": 21633846,
+            "name": "РЕСНИЦЫ. ДВОЙНОЕ ЛАМИНИРОВАНИЕ (ВЕРХ+НИЗ) И ОКРАШИВАНИЕ",
+            "image": "https://f2.dikidi.net/c24/v23491/3ivhjlf5lk.jpg",
+            "cost": 6500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 6500,
+            "share": 0,
+            "service_value": "РЕСНИЦЫ. ДВОЙНОЕ ЛАМИНИРОВАНИЕ (ВЕРХ+НИЗ) И ОКРАШИВАНИЕ",
+            "service_points": 0.04,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 46981566,
+              "url": "https://f2.dikidi.ru/c24/v23491/3ivhjlf5lk.jpg"
+            }
+          },
+          {
+            "id": 22110356,
+            "company_service_id": 22110356,
+            "name": "РЕСНИЦЫ. ЛАМИНИРОВАНИЕ БЕЗ ОКРАШИВАНИЯ",
+            "image": "https://f2.dikidi.net/c26/v25252/59c3rk9ala.jpg",
+            "cost": 4000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 4000,
+            "share": 0,
+            "service_value": "РЕСНИЦЫ. ЛАМИНИРОВАНИЕ БЕЗ ОКРАШИВАНИЯ",
+            "service_points": 0.02,
+            "service_custom_sort": 4,
+            "icon": {
+              "id": 50502564,
+              "url": "https://f2.dikidi.ru/c26/v25252/59c3rk9ala.jpg"
+            }
+          },
+          {
+            "id": 10814671,
+            "company_service_id": 10814671,
+            "name": "РЕСНИЦЫ. ЛАМИНИРОВАНИЕ И ОКРАШИВАНИЕ",
+            "image": "https://f2.dikidi.net/c24/v23491/3qbp0csaih.jpg",
+            "cost": 4500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "РЕСНИЦЫ. ЛАМИНИРОВАНИЕ И ОКРАШИВАНИЕ",
+            "service_points": 4.27,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 46981576,
+              "url": "https://f2.dikidi.ru/c24/v23491/3qbp0csaih.jpg"
+            }
+          },
+          {
+            "id": 10021964,
+            "company_service_id": 10021964,
+            "name": "РЕСНИЦЫ. ОКРАШИВАНИЕ",
+            "image": "https://f2.dikidi.net/c24/v23491/2m325k8pi1.jpg",
+            "cost": 1500,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 1500,
+            "share": 0,
+            "service_value": "РЕСНИЦЫ. ОКРАШИВАНИЕ",
+            "service_points": 2.5,
+            "service_custom_sort": 2,
+            "icon": {
+              "id": 46981584,
+              "url": "https://f2.dikidi.ru/c24/v23491/2m325k8pi1.jpg"
+            }
+          },
+          {
+            "id": 13642296,
+            "company_service_id": 13642296,
+            "name": "РЕСНИЦЫ. УХОД ПРОТЕИНОВОЕ ВОССТАНОВЛЕНИЕ",
+            "image": "https://f2.dikidi.net/c24/v23491/3uqrr5ihef.jpg",
+            "cost": 1000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 1000,
+            "share": 0,
+            "service_value": "РЕСНИЦЫ. УХОД ПРОТЕИНОВОЕ ВОССТАНОВЛЕНИЕ",
+            "service_points": 0,
+            "service_custom_sort": 1,
+            "icon": {
+              "id": 46981718,
+              "url": "https://f2.dikidi.ru/c24/v23491/3uqrr5ihef.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2476296",
+        "name": "Брови",
+        "category_value": "Брови",
+        "category_custom_sort": 7,
+        "field_sort_service": "value",
+        "services": [
+          {
+            "id": 10021932,
+            "company_service_id": 10021932,
+            "name": ".КОРРЕКЦИЯ ЗОНЫ НАД ГУБОЙ",
+            "image": "https://f1.dikidi.net/c13/v12259/6mf5mvqout.jpg",
+            "cost": 1000,
+            "time": 20,
+            "floating": false,
+            "discount": 0,
+            "price": 1000,
+            "share": 0,
+            "service_value": ".КОРРЕКЦИЯ ЗОНЫ НАД ГУБОЙ",
+            "service_points": 2.76,
+            "service_custom_sort": 11,
+            "icon": {
+              "id": 24516446,
+              "url": "https://f1.dikidi.ru/c13/v12259/6mf5mvqout.jpg"
+            }
+          },
+          {
+            "id": 12826278,
+            "company_service_id": 12826278,
+            "name": "БРОВИ. БЕРЕЖНОЕ ОКРАШИВАНИЕ + КОРРЕКЦИЯ",
+            "image": "https://f1.dikidi.net/c13/v12258/3b4ps6i2v5.jpg",
+            "cost": 4500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "БРОВИ. БЕРЕЖНОЕ ОКРАШИВАНИЕ + КОРРЕКЦИЯ",
+            "service_points": 1.17,
+            "service_custom_sort": 10,
+            "icon": {
+              "id": 24514144,
+              "url": "https://f1.dikidi.ru/c13/v12258/3b4ps6i2v5.jpg"
+            }
+          },
+          {
+            "id": 10021898,
+            "company_service_id": 10021898,
+            "name": "БРОВИ. КОРРЕКЦИЯ ВОСК/ПИНЦЕТ",
+            "image": "https://f1.dikidi.net/c13/v12258/14026ooqen.jpg",
+            "cost": 2000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "БРОВИ. КОРРЕКЦИЯ ВОСК/ПИНЦЕТ",
+            "service_points": 3.46,
+            "service_custom_sort": 9,
+            "icon": {
+              "id": 24514180,
+              "url": "https://f1.dikidi.ru/c13/v12258/14026ooqen.jpg"
+            }
+          },
+          {
+            "id": 10021804,
+            "company_service_id": 10021804,
+            "name": "БРОВИ. КОРРЕКЦИЯ И ОКРАШИВАНИЕ",
+            "image": "https://f1.dikidi.net/c13/v12258/53n8gpq30g.jpg",
+            "cost": 3500,
+            "time": 60,
+            "floating": true,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "БРОВИ. КОРРЕКЦИЯ И ОКРАШИВАНИЕ",
+            "service_points": 15.63,
+            "service_custom_sort": 8,
+            "icon": {
+              "id": 24514192,
+              "url": "https://f1.dikidi.ru/c13/v12258/53n8gpq30g.jpg"
+            }
+          },
+          {
+            "id": 10651093,
+            "company_service_id": 10651093,
+            "name": "БРОВИ. ЛАМИ И КОРРЕКЦИЯ",
+            "image": "https://f1.dikidi.net/c13/v12258/1ml2bsh9ct.jpg",
+            "cost": 4000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 4000,
+            "share": 0,
+            "service_value": "БРОВИ. ЛАМИ И КОРРЕКЦИЯ",
+            "service_points": 0.15,
+            "service_custom_sort": 7,
+            "icon": {
+              "id": 24514214,
+              "url": "https://f1.dikidi.ru/c13/v12258/1ml2bsh9ct.jpg"
+            }
+          },
+          {
+            "id": 10021866,
+            "company_service_id": 10021866,
+            "name": "БРОВИ. ЛАМИ И ОКРАШИВАНИЕ",
+            "image": "https://f1.dikidi.net/c13/v12258/1fc7ccadgm.jpg",
+            "cost": 4000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 4000,
+            "share": 0,
+            "service_value": "БРОВИ. ЛАМИ И ОКРАШИВАНИЕ",
+            "service_points": 0,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 24514230,
+              "url": "https://f1.dikidi.ru/c13/v12258/1fc7ccadgm.jpg"
+            }
+          },
+          {
+            "id": 9992574,
+            "company_service_id": 9992574,
+            "name": "БРОВИ. ЛАМИ, КОРРЕКЦИЯ И ОКРАШИВАНИЕ",
+            "image": "https://f1.dikidi.net/c13/v12258/5ets1fbu8k.jpg",
+            "cost": 4500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "БРОВИ. ЛАМИ, КОРРЕКЦИЯ И ОКРАШИВАНИЕ",
+            "service_points": 2.43,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 24514244,
+              "url": "https://f1.dikidi.ru/c13/v12258/5ets1fbu8k.jpg"
+            }
+          },
+          {
+            "id": 17542324,
+            "company_service_id": 17542324,
+            "name": "БРОВИ. ЛАМИНИРОВАНИЕ БЕЗ ОКРАШИВАНИЯ И КОРРЕКЦИИ",
+            "image": "https://f2.dikidi.net/c16/v15477/qh8gojvb1c.jpg",
+            "cost": 2500,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 2500,
+            "share": 0,
+            "service_value": "БРОВИ. ЛАМИНИРОВАНИЕ БЕЗ ОКРАШИВАНИЯ И КОРРЕКЦИИ",
+            "service_points": 0,
+            "service_custom_sort": 4,
+            "icon": {
+              "id": 30953882,
+              "url": "https://f2.dikidi.ru/c16/v15477/qh8gojvb1c.jpg"
+            }
+          },
+          {
+            "id": 10042434,
+            "company_service_id": 10042434,
+            "name": "БРОВИ. ОКРАШИВАНИЕ БЕЗ КОРРЕКЦИИ",
+            "image": "https://f1.dikidi.net/c13/v12258/2sg3nt9ah4.jpg",
+            "cost": 2000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "БРОВИ. ОКРАШИВАНИЕ БЕЗ КОРРЕКЦИИ",
+            "service_points": 0.22,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 24514254,
+              "url": "https://f1.dikidi.ru/c13/v12258/2sg3nt9ah4.jpg"
+            }
+          },
+          {
+            "id": 10021976,
+            "company_service_id": 10021976,
+            "name": "БРОВИ. ОСВЕТЛЕНИЕ",
+            "image": "https://f1.dikidi.net/c13/v12258/35kio5dkra.jpg",
+            "cost": 1500,
+            "time": 20,
+            "floating": false,
+            "discount": 0,
+            "price": 1500,
+            "share": 0,
+            "service_value": "БРОВИ. ОСВЕТЛЕНИЕ",
+            "service_points": 0.01,
+            "service_custom_sort": 2,
+            "icon": {
+              "id": 24514262,
+              "url": "https://f1.dikidi.ru/c13/v12258/35kio5dkra.jpg"
+            }
+          },
+          {
+            "id": 10051634,
+            "company_service_id": 10051634,
+            "name": "БРОВИ. СПА ВОССТАНОВЛЕНИЕ",
+            "image": "https://f1.dikidi.net/c13/v12258/7d7pqo2muq.jpg",
+            "cost": 1000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 1000,
+            "share": 0,
+            "service_value": "БРОВИ. СПА ВОССТАНОВЛЕНИЕ",
+            "service_points": 0,
+            "service_custom_sort": 1,
+            "icon": {
+              "id": 24514286,
+              "url": "https://f1.dikidi.ru/c13/v12258/7d7pqo2muq.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4228912",
+        "name": "Массаж: абонементы",
+        "category_value": "Массаж: абонементы",
+        "category_custom_sort": 6,
+        "field_sort_service": "custom_sort",
+        "services": [
+          {
+            "id": 19230048,
+            "company_service_id": 19230048,
+            "name": "КОМБО: 10 СЕАНСОВ, МОДЕЛИРУЮЩИЙ (1 ЧАС) + 6 ОБЁРТЫВАНИЯВ ПОДАРОК",
+            "image": "https://f2.dikidi.net/c24/v23492/3bo78gqq7g.jpg",
+            "cost": 55000,
+            "time": 75,
+            "floating": false,
+            "discount": 0,
+            "price": 55000,
+            "share": 0,
+            "service_value": "КОМБО: 10 СЕАНСОВ, МОДЕЛИРУЮЩИЙ (1 ЧАС) + 6 ОБЁРТЫВАНИЯВ ПОДАРОК",
+            "service_points": 0,
+            "service_custom_sort": 10,
+            "icon": {
+              "id": 46983488,
+              "url": "https://f2.dikidi.ru/c24/v23492/3bo78gqq7g.jpg"
+            }
+          },
+          {
+            "id": 15506164,
+            "company_service_id": 15506164,
+            "name": "КОМБО: 5 СЕАНСОВ МОДЕЛИРУЮЩИЙ (1,5 ЧАСА) + 3 ОБЁРТЫВАНИЯ В ПОДАРОК",
+            "image": "https://f1.dikidi.net/c13/v12264/5u639uh3jn.jpg",
+            "cost": 35000,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 35000,
+            "share": 0,
+            "service_value": "КОМБО: 5 СЕАНСОВ МОДЕЛИРУЮЩИЙ (1,5 ЧАСА) + 3 ОБЁРТЫВАНИЯ В ПОДАРОК",
+            "service_points": 0.03,
+            "service_custom_sort": 9,
+            "icon": {
+              "id": 24527820,
+              "url": "https://f1.dikidi.ru/c13/v12264/5u639uh3jn.jpg"
+            }
+          },
+          {
+            "id": 15506140,
+            "company_service_id": 15506140,
+            "name": "КОМБО: 5 СЕАНСОВ, МОДЕЛИРУЮЩИЙ (1 ЧАС) + 3 ОБЁРТЫВАНИЯ В ПОДАРОК",
+            "image": "https://f1.dikidi.net/c13/v12264/1f19j0cq56.jpg",
+            "cost": 27500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 27500,
+            "share": 0,
+            "service_value": "КОМБО: 5 СЕАНСОВ, МОДЕЛИРУЮЩИЙ (1 ЧАС) + 3 ОБЁРТЫВАНИЯ В ПОДАРОК",
+            "service_points": 0.03,
+            "service_custom_sort": 8,
+            "icon": {
+              "id": 24527824,
+              "url": "https://f1.dikidi.ru/c13/v12264/1f19j0cq56.jpg"
+            }
+          },
+          {
+            "id": 15151774,
+            "company_service_id": 15151774,
+            "name": "КОМБО: 5 СЕАНСОВ, МОДЕЛИРУЮЩИЙ (40 МИН) + 3 ОБЁРТЫВАНИЯ В ПОДАРОК",
+            "image": "https://f1.dikidi.net/c13/v12264/5uk050rfkm.jpg",
+            "cost": 22500,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 22500,
+            "share": 0,
+            "service_value": "КОМБО: 5 СЕАНСОВ, МОДЕЛИРУЮЩИЙ (40 МИН) + 3 ОБЁРТЫВАНИЯ В ПОДАРОК",
+            "service_points": 0,
+            "service_custom_sort": 7,
+            "icon": {
+              "id": 24527838,
+              "url": "https://f1.dikidi.ru/c13/v12264/5uk050rfkm.jpg"
+            }
+          },
+          {
+            "id": 18016780,
+            "company_service_id": 18016780,
+            "name": "АБОНЕМЕНТ 5 СЕАНСОВ: ОБЩИЙ ГЛУБОКОТКАННЫЙ МАССАЖ,  1.5 ЧАСА",
+            "image": "https://f2.dikidi.net/c24/v23491/25g100mlug.jpg",
+            "cost": 27500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 27500,
+            "share": 0,
+            "service_value": "АБОНЕМЕНТ 5 СЕАНСОВ: ОБЩИЙ ГЛУБОКОТКАННЫЙ МАССАЖ,  1.5 ЧАСА",
+            "service_points": 0,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 46981180,
+              "url": "https://f2.dikidi.ru/c24/v23491/25g100mlug.jpg"
+            }
+          },
+          {
+            "id": 18016770,
+            "company_service_id": 18016770,
+            "name": "АБОНЕМЕНТ 5 СЕАНСОВ: ОБЩИЙ ГЛУБОКОТКАННЫЙ МАССАЖ, 1 ЧАС",
+            "image": "https://f2.dikidi.net/c24/v23491/jl685r6t9q.jpg",
+            "cost": 20250,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 20250,
+            "share": 0,
+            "service_value": "АБОНЕМЕНТ 5 СЕАНСОВ: ОБЩИЙ ГЛУБОКОТКАННЫЙ МАССАЖ, 1 ЧАС",
+            "service_points": 0.06,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 46981184,
+              "url": "https://f2.dikidi.ru/c24/v23491/jl685r6t9q.jpg"
+            }
+          },
+          {
+            "id": 16039060,
+            "company_service_id": 16039060,
+            "name": "АБОНЕМЕНТ: РЕЛАКС, 5 СЕАНСОВ 90 МИН",
+            "image": "https://f1.dikidi.net/c13/v12259/4vr7rhv6d2.jpg",
+            "cost": 27500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 27500,
+            "share": 0,
+            "service_value": "АБОНЕМЕНТ: РЕЛАКС, 5 СЕАНСОВ 90 МИН",
+            "service_points": 0,
+            "service_custom_sort": 4,
+            "icon": {
+              "id": 24517734,
+              "url": "https://f1.dikidi.ru/c13/v12259/4vr7rhv6d2.jpg"
+            }
+          },
+          {
+            "id": 16039022,
+            "company_service_id": 16039022,
+            "name": "АБОНЕМЕНТ: РЕЛАКС, 5 СЕАНСОВ 60 МИН",
+            "image": "https://f1.dikidi.net/c13/v12259/2dlit9n5i0.jpg",
+            "cost": 20250,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 20250,
+            "share": 0,
+            "service_value": "АБОНЕМЕНТ: РЕЛАКС, 5 СЕАНСОВ 60 МИН",
+            "service_points": 0,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 24517702,
+              "url": "https://f1.dikidi.ru/c13/v12259/2dlit9n5i0.jpg"
+            }
+          },
+          {
+            "id": 20989951,
+            "company_service_id": 20989951,
+            "name": "КОМБО ЛИМФОДРЕНАЖ 1 ЧАС: 10 СЕАНСОВ + 6 ОБЁРТЫВАНЯ",
+            "image": "https://f2.dikidi.net/c24/v23491/1tqkmt9ge7.jpg",
+            "cost": 45000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 45000,
+            "share": 0,
+            "service_value": "КОМБО ЛИМФОДРЕНАЖ 1 ЧАС: 10 СЕАНСОВ + 6 ОБЁРТЫВАНЯ",
+            "service_points": 0,
+            "service_custom_sort": 2,
+            "icon": {
+              "id": 46981056,
+              "url": "https://f2.dikidi.ru/c24/v23491/1tqkmt9ge7.jpg"
+            }
+          },
+          {
+            "id": 20815610,
+            "company_service_id": 20815610,
+            "name": "КОМБО ЛИМФОДРЕНАЖ 1 ЧАС: 5 СЕАНСОВ + 3 ОБЁРТЫВАНЯ",
+            "image": "https://f2.dikidi.net/c24/v23492/3jcfvgeg4f.jpg",
+            "cost": 22500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 22500,
+            "share": 0,
+            "service_value": "КОМБО ЛИМФОДРЕНАЖ 1 ЧАС: 5 СЕАНСОВ + 3 ОБЁРТЫВАНЯ",
+            "service_points": 0,
+            "service_custom_sort": 1,
+            "icon": {
+              "id": 46983354,
+              "url": "https://f2.dikidi.ru/c24/v23492/3jcfvgeg4f.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3567422",
+        "name": "Массаж",
+        "category_value": "Массаж",
+        "category_custom_sort": 5,
+        "field_sort_service": "custom_sort",
+        "services": [
+          {
+            "id": 15150856,
+            "company_service_id": 15150856,
+            "name": "(АКЦИЯ -500RSD) МАССАЖ ЛИЦА: 1 ЧАС",
+            "image": "https://f1.dikidi.net/c13/v12259/5l2fc3oqd4.jpg",
+            "cost": 4500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "(АКЦИЯ -500RSD) МАССАЖ ЛИЦА: 1 ЧАС",
+            "service_points": 0,
+            "service_custom_sort": 21,
+            "icon": {
+              "id": 24517976,
+              "url": "https://f1.dikidi.ru/c13/v12259/5l2fc3oqd4.jpg"
+            }
+          },
+          {
+            "id": 15150910,
+            "company_service_id": 15150910,
+            "name": "(СКИДКА 1-ОЕ ПОСЕЩЕНИЕ) ОБЩИЙ ГЛУБОКОНТКАННЫЙ МАССАЖ: 1 ЧАС",
+            "image": "https://f2.dikidi.net/c21/v20959/2o3147ai7i.jpg",
+            "cost": 4000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 4000,
+            "share": 0,
+            "service_value": "(СКИДКА 1-ОЕ ПОСЕЩЕНИЕ) ОБЩИЙ ГЛУБОКОНТКАННЫЙ МАССАЖ: 1 ЧАС",
+            "service_points": 0.06,
+            "service_custom_sort": 20,
+            "icon": {
+              "id": 41917064,
+              "url": "https://f2.dikidi.ru/c21/v20959/2o3147ai7i.jpg"
+            }
+          },
+          {
+            "id": 17525175,
+            "company_service_id": 17525175,
+            "name": "0. ОБЁРТЫВАНИЕ ДЕТОКС В ТЕРМООДЕЯЛЕ",
+            "image": "https://f1.dikidi.net/c14/v13921/1eq1n8aiuj.jpg",
+            "cost": 2000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "0. ОБЁРТЫВАНИЕ ДЕТОКС В ТЕРМООДЕЯЛЕ",
+            "service_points": 0.04,
+            "service_custom_sort": 17,
+            "icon": {
+              "id": 27840889,
+              "url": "https://f1.dikidi.ru/c14/v13921/1eq1n8aiuj.jpg"
+            }
+          },
+          {
+            "id": 19836607,
+            "company_service_id": 19836607,
+            "name": "1. МАССАЖ СПИНЫ 40 МИНУТ",
+            "image": "https://f2.dikidi.net/c24/v23454/7vgtght4sp.jpg",
+            "cost": 3500,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "1. МАССАЖ СПИНЫ 40 МИНУТ",
+            "service_points": 0,
+            "service_custom_sort": 16,
+            "icon": {
+              "id": 46906928,
+              "url": "https://f2.dikidi.ru/c24/v23454/7vgtght4sp.jpg"
+            }
+          },
+          {
+            "id": 15151628,
+            "company_service_id": 15151628,
+            "name": "2. МОДЕЛИРУЮЩИЙ: 1 ЧАС",
+            "image": "https://f1.dikidi.net/c13/v12264/7r2higg47u.jpg",
+            "cost": 5500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 5500,
+            "share": 0,
+            "service_value": "2. МОДЕЛИРУЮЩИЙ: 1 ЧАС",
+            "service_points": 0.04,
+            "service_custom_sort": 15,
+            "icon": {
+              "id": 24527960,
+              "url": "https://f1.dikidi.ru/c13/v12264/7r2higg47u.jpg"
+            }
+          },
+          {
+            "id": 15151600,
+            "company_service_id": 15151600,
+            "name": "2. МОДЕЛИРУЮЩИЙ: 1,5 ЧАСА",
+            "image": "https://f1.dikidi.net/c13/v12264/gjh78lgq6f.jpg",
+            "cost": 7000,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 7000,
+            "share": 0,
+            "service_value": "2. МОДЕЛИРУЮЩИЙ: 1,5 ЧАСА",
+            "service_points": 0.05,
+            "service_custom_sort": 14,
+            "icon": {
+              "id": 24527934,
+              "url": "https://f1.dikidi.ru/c13/v12264/gjh78lgq6f.jpg"
+            }
+          },
+          {
+            "id": 15151688,
+            "company_service_id": 15151688,
+            "name": "2. МОДЕЛИРУЮЩИЙ: 40 МИНУТ",
+            "image": "https://f1.dikidi.net/c13/v12264/5geudt4p5l.jpg",
+            "cost": 4500,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "2. МОДЕЛИРУЮЩИЙ: 40 МИНУТ",
+            "service_points": 0,
+            "service_custom_sort": 13,
+            "icon": {
+              "id": 24527944,
+              "url": "https://f1.dikidi.ru/c13/v12264/5geudt4p5l.jpg"
+            }
+          },
+          {
+            "id": 17431561,
+            "company_service_id": 17431561,
+            "name": "3. ОБЩИЙ ГЛУБОКОТКАННЫЙ МАССАЖ: 1 ЧАС",
+            "image": "https://f1.dikidi.net/c14/v13921/739q2uqk7u.jpg",
+            "cost": 4500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "3. ОБЩИЙ ГЛУБОКОТКАННЫЙ МАССАЖ: 1 ЧАС",
+            "service_points": 1.27,
+            "service_custom_sort": 12,
+            "icon": {
+              "id": 27840919,
+              "url": "https://f1.dikidi.ru/c14/v13921/739q2uqk7u.jpg"
+            }
+          },
+          {
+            "id": 17448877,
+            "company_service_id": 17448877,
+            "name": "3. ОБЩИЙ ГЛУБОКОТКАННЫЙ МАССАЖ: 1,5 ЧАСА",
+            "image": "https://f1.dikidi.net/c14/v13921/4vf7lpmflp.jpg",
+            "cost": 6000,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 6000,
+            "share": 0,
+            "service_value": "3. ОБЩИЙ ГЛУБОКОТКАННЫЙ МАССАЖ: 1,5 ЧАСА",
+            "service_points": 0.01,
+            "service_custom_sort": 11,
+            "icon": {
+              "id": 27840942,
+              "url": "https://f1.dikidi.ru/c14/v13921/4vf7lpmflp.jpg"
+            }
+          },
+          {
+            "id": 15618314,
+            "company_service_id": 15618314,
+            "name": "4. РАССЛАБЛЯЮЩИЙ АНТИ-СТРЕСС: 1 ЧАС",
+            "image": "https://f1.dikidi.net/c13/v12259/4ui1kmepcg.jpg",
+            "cost": 4500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "4. РАССЛАБЛЯЮЩИЙ АНТИ-СТРЕСС: 1 ЧАС",
+            "service_points": 0,
+            "service_custom_sort": 10,
+            "icon": {
+              "id": 24517758,
+              "url": "https://f1.dikidi.ru/c13/v12259/4ui1kmepcg.jpg"
+            }
+          },
+          {
+            "id": 15618318,
+            "company_service_id": 15618318,
+            "name": "4. РАССЛАБЛЯЮЩИЙ АНТИ-СТРЕСС: 90 МИНУТ",
+            "image": "https://f1.dikidi.net/c13/v12259/2urjp0tg1a.jpg",
+            "cost": 6000,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 6000,
+            "share": 0,
+            "service_value": "4. РАССЛАБЛЯЮЩИЙ АНТИ-СТРЕСС: 90 МИНУТ",
+            "service_points": 0.03,
+            "service_custom_sort": 9,
+            "icon": {
+              "id": 24517784,
+              "url": "https://f1.dikidi.ru/c13/v12259/2urjp0tg1a.jpg"
+            }
+          },
+          {
+            "id": 15618324,
+            "company_service_id": 15618324,
+            "name": "5. ПЛЕЧИ, ШЕЯ И ГОЛОВА ГЛУБОКОТКАННЫЙ ИЛИ АНТИ-СТРЕСС: 40 МИНУТ",
+            "image": "https://f1.dikidi.net/c13/v12264/71lpvpo4a0.jpg",
+            "cost": 3500,
+            "time": 40,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "5. ПЛЕЧИ, ШЕЯ И ГОЛОВА ГЛУБОКОТКАННЫЙ ИЛИ АНТИ-СТРЕСС: 40 МИНУТ",
+            "service_points": 0.04,
+            "service_custom_sort": 8,
+            "icon": {
+              "id": 24527870,
+              "url": "https://f1.dikidi.ru/c13/v12264/71lpvpo4a0.jpg"
+            }
+          },
+          {
+            "id": 15618326,
+            "company_service_id": 15618326,
+            "name": "5. ПЛЕЧИ, ШЕЯ И ГОЛОВА ГЛУБОКОТКАННЫЙ ИЛИ АНТИ-СТРЕСС: 60 МИНУТ",
+            "image": "https://f1.dikidi.net/c13/v12264/6v8b5hblbc.jpg",
+            "cost": 4500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "5. ПЛЕЧИ, ШЕЯ И ГОЛОВА ГЛУБОКОТКАННЫЙ ИЛИ АНТИ-СТРЕСС: 60 МИНУТ",
+            "service_points": 0.02,
+            "service_custom_sort": 7,
+            "icon": {
+              "id": 24527880,
+              "url": "https://f1.dikidi.ru/c13/v12264/6v8b5hblbc.jpg"
+            }
+          },
+          {
+            "id": 17278312,
+            "company_service_id": 17278312,
+            "name": "6. ЛИМФОДРЕНАЖНЫЙ: 1 ЧАС",
+            "image": "https://f1.dikidi.net/c14/v13305/34fi4k60t8.jpg",
+            "cost": 4500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "6. ЛИМФОДРЕНАЖНЫЙ: 1 ЧАС",
+            "service_points": 0,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 26608994,
+              "url": "https://f1.dikidi.ru/c14/v13305/34fi4k60t8.jpg"
+            }
+          },
+          {
+            "id": 17278322,
+            "company_service_id": 17278322,
+            "name": "6. ЛИМФОДРЕНАЖНЫЙ: 1,5 ЧАСА",
+            "image": "https://f1.dikidi.net/c14/v13305/57hd1l26j1.jpg",
+            "cost": 6000,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 6000,
+            "share": 0,
+            "service_value": "6. ЛИМФОДРЕНАЖНЫЙ: 1,5 ЧАСА",
+            "service_points": 0,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 26609004,
+              "url": "https://f1.dikidi.ru/c14/v13305/57hd1l26j1.jpg"
+            }
+          },
+          {
+            "id": 20902277,
+            "company_service_id": 20902277,
+            "name": "МАССАЖ ЛИЦА: ПЛАСТИЧЕСКИЙ, ТИБЕТСКИЙ, ПО ЖАКЕ, КИТАЙСКИЙ БЛЕФАРОЛИФТ",
+            "image": "https://f2.dikidi.net/c24/v23454/64gbu6v9io.jpg",
+            "cost": 5000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 5000,
+            "share": 0,
+            "service_value": "МАССАЖ ЛИЦА: ПЛАСТИЧЕСКИЙ, ТИБЕТСКИЙ, ПО ЖАКЕ, КИТАЙСКИЙ БЛЕФАРОЛИФТ",
+            "service_points": 0.07,
+            "service_custom_sort": 1,
+            "icon": {
+              "id": 46907116,
+              "url": "https://f2.dikidi.ru/c24/v23454/64gbu6v9io.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2491042",
+        "name": "Маникюр",
+        "category_value": "Маникюр",
+        "category_custom_sort": 3,
+        "field_sort_service": "custom_sort",
+        "services": [
+          {
+            "id": 17385320,
+            "company_service_id": 17385320,
+            "name": "(СКИДКА -10% ПЕРВОЕ  ПОСЕЩЕНИЕ) МАНИКЮР + УКРЕПЛЕНИЕ ГЕЛЕМ",
+            "image": "https://f2.dikidi.net/c18/v17409/od13fvdm7c.jpg",
+            "cost": 4500,
+            "time": 150,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "(СКИДКА -10% ПЕРВОЕ  ПОСЕЩЕНИЕ) МАНИКЮР + УКРЕПЛЕНИЕ ГЕЛЕМ",
+            "service_points": 0,
+            "service_custom_sort": 26,
+            "icon": {
+              "id": 34816140,
+              "url": "https://f2.dikidi.ru/c18/v17409/od13fvdm7c.jpg"
+            }
+          },
+          {
+            "id": 17385311,
+            "company_service_id": 17385311,
+            "name": "(СКИДКА -10% ПЕРВОЕ  ПОСЕЩЕНИЕ) МАНИКЮР ГЕЛЬ-ЛАК",
+            "image": "https://f2.dikidi.net/c18/v17409/5b1dd2pggf.jpg",
+            "cost": 3600,
+            "time": 120,
+            "floating": false,
+            "discount": 0,
+            "price": 3600,
+            "share": 0,
+            "service_value": "(СКИДКА -10% ПЕРВОЕ  ПОСЕЩЕНИЕ) МАНИКЮР ГЕЛЬ-ЛАК",
+            "service_points": 0.07,
+            "service_custom_sort": 25,
+            "icon": {
+              "id": 34816155,
+              "url": "https://f2.dikidi.ru/c18/v17409/5b1dd2pggf.jpg"
+            }
+          },
+          {
+            "id": 21660588,
+            "company_service_id": 21660588,
+            "name": "(СКИДКА ПЕРВОЕ  ПОСЕЩЕНИЕ -500RSD ДО 30.04) SOFT TOUCH МАНИКЮР БЕЗ ПОКРЫТИЯ",
+            "image": "https://f2.dikidi.net/c24/v23453/2aitq00qeh.jpg",
+            "cost": 3000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 3000,
+            "share": 0,
+            "service_value": "(СКИДКА ПЕРВОЕ  ПОСЕЩЕНИЕ -500RSD ДО 30.04) SOFT TOUCH МАНИКЮР БЕЗ ПОКРЫТИЯ",
+            "service_points": 0.12,
+            "service_custom_sort": 24,
+            "icon": {
+              "id": 46905660,
+              "url": "https://f2.dikidi.ru/c24/v23453/2aitq00qeh.jpg"
+            }
+          },
+          {
+            "id": 21660542,
+            "company_service_id": 21660542,
+            "name": "SOFT TOUCH МАНИКЮР (БЕЗ ПОКРЫТИЯ)",
+            "image": "https://f2.dikidi.net/c24/v23453/73n3bf8abo.jpg",
+            "cost": 3500,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "SOFT TOUCH МАНИКЮР (БЕЗ ПОКРЫТИЯ)",
+            "service_points": 0.07,
+            "service_custom_sort": 23,
+            "icon": {
+              "id": 46905550,
+              "url": "https://f2.dikidi.ru/c24/v23453/73n3bf8abo.jpg"
+            }
+          },
+          {
+            "id": 21705280,
+            "company_service_id": 21705280,
+            "name": "SOFT TOUCH МАНИКЮР + ЯПОНСКИЙ",
+            "image": "https://f2.dikidi.net/c26/v25527/j597cuv455.jpg",
+            "cost": 4000,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 4000,
+            "share": 0,
+            "service_value": "SOFT TOUCH МАНИКЮР + ЯПОНСКИЙ",
+            "service_points": 0.03,
+            "service_custom_sort": 21,
+            "icon": {
+              "id": 51053470,
+              "url": "https://f2.dikidi.ru/c26/v25527/j597cuv455.jpg"
+            }
+          },
+          {
+            "id": 10057250,
+            "company_service_id": 10057250,
+            "name": "1. МАНИКЮР + ГЕЛЬ-ЛАК",
+            "image": "https://f1.dikidi.net/c13/v12736/18406dj2ef.jpg",
+            "cost": 4000,
+            "time": 120,
+            "floating": true,
+            "discount": 0,
+            "price": 4000,
+            "share": 0,
+            "service_value": "1. МАНИКЮР + ГЕЛЬ-ЛАК",
+            "service_points": 13.48,
+            "service_custom_sort": 20,
+            "icon": {
+              "id": 25470948,
+              "url": "https://f1.dikidi.ru/c13/v12736/18406dj2ef.jpg"
+            }
+          },
+          {
+            "id": 10057310,
+            "company_service_id": 10057310,
+            "name": "2. МАНИКЮР + ГЕЛЕВОЕ УКРЕПЛЕНИЕ",
+            "image": "https://f1.dikidi.net/c10/v9886/3jrjt25lrq.jpg",
+            "cost": 5000,
+            "time": 150,
+            "floating": false,
+            "discount": 0,
+            "price": 5000,
+            "share": 0,
+            "service_value": "2. МАНИКЮР + ГЕЛЕВОЕ УКРЕПЛЕНИЕ",
+            "service_points": 2.59,
+            "service_custom_sort": 19,
+            "icon": {
+              "id": 19771111,
+              "url": "https://f1.dikidi.ru/c10/v9886/3jrjt25lrq.jpg"
+            }
+          },
+          {
+            "id": 20997524,
+            "company_service_id": 20997524,
+            "name": "3. МАНИКЮР БЕЗ ПОКРЫТИЯ + АРМИРОВАНИЕ НОГТЕЙ",
+            "image": "https://f2.dikidi.net/c22/v21251/79as2g6a2p.jpg",
+            "cost": 3500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "3. МАНИКЮР БЕЗ ПОКРЫТИЯ + АРМИРОВАНИЕ НОГТЕЙ",
+            "service_points": 0.25,
+            "service_custom_sort": 18,
+            "icon": {
+              "id": 42501988,
+              "url": "https://f2.dikidi.ru/c22/v21251/79as2g6a2p.jpg"
+            }
+          },
+          {
+            "id": 10045866,
+            "company_service_id": 10045866,
+            "name": "3. МАНИКЮР БЕЗ ПОКРЫТИЯ (КОМБИНИРОВАННЫЙ)",
+            "image": "https://f1.dikidi.net/c9/v8149/41hvrkq8a8.jpg",
+            "cost": 2500,
+            "time": 60,
+            "floating": true,
+            "discount": 0,
+            "price": 2500,
+            "share": 0,
+            "service_value": "3. МАНИКЮР БЕЗ ПОКРЫТИЯ (КОМБИНИРОВАННЫЙ)",
+            "service_points": 4.76,
+            "service_custom_sort": 17,
+            "icon": {
+              "id": 16297455,
+              "url": "https://f1.dikidi.ru/c9/v8149/41hvrkq8a8.jpg"
+            }
+          },
+          {
+            "id": 10057264,
+            "company_service_id": 10057264,
+            "name": "4. МАНИКЮР БЕЗ ПОКРЫТИЯ + СНЯТИЕ ГЕЛЬ-ЛАКА",
+            "image": "https://f1.dikidi.net/c5/v4849/2fqlmcahnr.jpg",
+            "cost": 3000,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 3000,
+            "share": 0,
+            "service_value": "4. МАНИКЮР БЕЗ ПОКРЫТИЯ + СНЯТИЕ ГЕЛЬ-ЛАКА",
+            "service_points": 0.02,
+            "service_custom_sort": 16,
+            "icon": {
+              "id": 9697047,
+              "url": "https://f1.dikidi.ru/c5/v4849/2fqlmcahnr.jpg"
+            }
+          },
+          {
+            "id": 15321066,
+            "company_service_id": 15321066,
+            "name": "5. ЯПОНСКИЙ МАНИКЮР",
+            "image": "https://f1.dikidi.net/c13/v12264/7os437bn58.jpg",
+            "cost": 3500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "5. ЯПОНСКИЙ МАНИКЮР",
+            "service_points": 1.89,
+            "service_custom_sort": 15,
+            "icon": {
+              "id": 24527780,
+              "url": "https://f1.dikidi.ru/c13/v12264/7os437bn58.jpg"
+            }
+          },
+          {
+            "id": 15321026,
+            "company_service_id": 15321026,
+            "name": "6. МАНИКЮР + IBX УКРЕПЛЕНИЕ",
+            "image": "https://f1.dikidi.net/c13/v12828/3rqusqtkk1.jpg",
+            "cost": 3500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "6. МАНИКЮР + IBX УКРЕПЛЕНИЕ",
+            "service_points": 0.02,
+            "service_custom_sort": 14,
+            "icon": {
+              "id": 25654780,
+              "url": "https://f1.dikidi.ru/c13/v12828/3rqusqtkk1.jpg"
+            }
+          },
+          {
+            "id": 20086954,
+            "company_service_id": 20086954,
+            "name": "Мужской маникюр с покрытием",
+            "image": "https://f2.dikidi.net/c19/v18299/7b3ved4lda.jpg",
+            "cost": 4000,
+            "time": 120,
+            "floating": true,
+            "discount": 0,
+            "price": 4000,
+            "share": 0,
+            "service_value": "Мужской маникюр с покрытием",
+            "service_points": 0,
+            "service_custom_sort": 13,
+            "icon": {
+              "id": 36597000,
+              "url": "https://f2.dikidi.ru/c19/v18299/7b3ved4lda.jpg"
+            }
+          },
+          {
+            "id": 15548314,
+            "company_service_id": 15548314,
+            "name": "IBX УКРЕПЛЕНИЕ БЕЗ МАНИКЮРА",
+            "image": "https://f1.dikidi.net/c13/v12265/1qeebud9i7.jpg",
+            "cost": 2000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2000,
+            "share": 0,
+            "service_value": "IBX УКРЕПЛЕНИЕ БЕЗ МАНИКЮРА",
+            "service_points": 0,
+            "service_custom_sort": 12,
+            "icon": {
+              "id": 24529816,
+              "url": "https://f1.dikidi.ru/c13/v12265/1qeebud9i7.jpg"
+            }
+          },
+          {
+            "id": 10126638,
+            "company_service_id": 10126638,
+            "name": "ДИЗАЙН СЛОЖНЫЙ",
+            "image": "https://f1.dikidi.net/c9/v8149/3oaagc6k7n.jpg",
+            "cost": 1000,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 1000,
+            "share": 0,
+            "service_value": "ДИЗАЙН СЛОЖНЫЙ",
+            "service_points": 0.01,
+            "service_custom_sort": 11,
+            "icon": {
+              "id": 16297409,
+              "url": "https://f1.dikidi.ru/c9/v8149/3oaagc6k7n.jpg"
+            }
+          },
+          {
+            "id": 13410436,
+            "company_service_id": 13410436,
+            "name": "ДИЗАЙН СРЕДНЕЙ СЛОЖНОСТИ",
+            "image": "https://f1.dikidi.ru/c10/v9817/u9k9bgt133.jpg",
+            "cost": 500,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 500,
+            "share": 0,
+            "service_value": "ДИЗАЙН СРЕДНЕЙ СЛОЖНОСТИ",
+            "service_points": 0,
+            "service_custom_sort": 10,
+            "icon": {
+              "id": 19632155,
+              "url": "https://f1.dikidi.ru/c10/v9817/u9k9bgt133.jpg"
+            }
+          },
+          {
+            "id": 18546112,
+            "company_service_id": 18546112,
+            "name": "НАРАЩИВАНИЕ НОГТЕЙ (СРЕДНЯЯ ДЛИНА ДО 4ММ)",
+            "image": "https://f2.dikidi.net/c17/v16807/2jf0sij3jn.jpg",
+            "cost": 6500,
+            "time": 180,
+            "floating": false,
+            "discount": 0,
+            "price": 6500,
+            "share": 0,
+            "service_value": "НАРАЩИВАНИЕ НОГТЕЙ (СРЕДНЯЯ ДЛИНА ДО 4ММ)",
+            "service_points": 0,
+            "service_custom_sort": 8,
+            "icon": {
+              "id": 33613450,
+              "url": "https://f2.dikidi.ru/c17/v16807/2jf0sij3jn.jpg"
+            }
+          },
+          {
+            "id": 17464102,
+            "company_service_id": 17464102,
+            "name": "ПОКРЫТИЕ ЛАКОМ (доп. опция к маникюру)",
+            "image": "https://f2.dikidi.net/c16/v15478/1bu4c5nm02.jpg",
+            "cost": 500,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 500,
+            "share": 0,
+            "service_value": "ПОКРЫТИЕ ЛАКОМ (доп. опция к маникюру)",
+            "service_points": 0.07,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 30954310,
+              "url": "https://f2.dikidi.ru/c16/v15478/1bu4c5nm02.jpg"
+            }
+          },
+          {
+            "id": 10126622,
+            "company_service_id": 10126622,
+            "name": "РЕМОНТ/ДОНАРАЩИВАНИЕ",
+            "image": "https://f1.dikidi.net/c9/v8149/1vqhkmmr64.jpg",
+            "cost": 300,
+            "time": 20,
+            "floating": false,
+            "discount": 0,
+            "price": 300,
+            "share": 0,
+            "service_value": "РЕМОНТ/ДОНАРАЩИВАНИЕ",
+            "service_points": 0.01,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 16297397,
+              "url": "https://f1.dikidi.ru/c9/v8149/1vqhkmmr64.jpg"
+            }
+          },
+          {
+            "id": 13240514,
+            "company_service_id": 13240514,
+            "name": "СПА УХОД ДЛЯ РУК",
+            "image": "https://f1.dikidi.ru/c10/v9886/1emh8sahb4.jpg",
+            "cost": 1000,
+            "time": 10,
+            "floating": false,
+            "discount": 0,
+            "price": 1000,
+            "share": 0,
+            "service_value": "СПА УХОД ДЛЯ РУК",
+            "service_points": 0.03,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 19771229,
+              "url": "https://f1.dikidi.ru/c10/v9886/1emh8sahb4.jpg"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2576114",
+        "name": "Педикюр",
+        "category_value": "Педикюр",
+        "category_custom_sort": 2,
+        "field_sort_service": "custom_sort",
+        "services": [
+          {
+            "id": 19494171,
+            "company_service_id": 19494171,
+            "name": "(СКИДКА ПЕРВОЕ ПОСЕЩЕНИЕ) ПЕДИКЮР БЕЗ ПОКРЫТИЯ",
+            "image": "https://f2.dikidi.net/c18/v17409/28h3rg5c7h.jpg",
+            "cost": 3100,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 3100,
+            "share": 0,
+            "service_value": "(СКИДКА ПЕРВОЕ ПОСЕЩЕНИЕ) ПЕДИКЮР БЕЗ ПОКРЫТИЯ",
+            "service_points": 0.05,
+            "service_custom_sort": 9,
+            "icon": {
+              "id": 34816038,
+              "url": "https://f2.dikidi.ru/c18/v17409/28h3rg5c7h.jpg"
+            }
+          },
+          {
+            "id": 18126129,
+            "company_service_id": 18126129,
+            "name": "(СКИДКА ПЕРВОЕ ПОСЕЩЕНИЕ) ПЕДИКЮР ВСЁ ВКЛЮЧЕНО",
+            "image": "https://f2.dikidi.net/c16/v15478/12o9bbtf8e.jpg",
+            "cost": 4500,
+            "time": 120,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "(СКИДКА ПЕРВОЕ ПОСЕЩЕНИЕ) ПЕДИКЮР ВСЁ ВКЛЮЧЕНО",
+            "service_points": 0.02,
+            "service_custom_sort": 8,
+            "icon": {
+              "id": 30954895,
+              "url": "https://f2.dikidi.ru/c16/v15478/12o9bbtf8e.jpg"
+            }
+          },
+          {
+            "id": 10344948,
+            "company_service_id": 10344948,
+            "name": "ПЕДИКЮР ГЕЛЬ-ЛАК ВСЁ ВКЛЮЧЕНО",
+            "image": "https://f1.dikidi.net/c13/v12828/29r3vlr1eo.jpg",
+            "cost": 5000,
+            "time": 120,
+            "floating": false,
+            "discount": 0,
+            "price": 5000,
+            "share": 0,
+            "service_value": "ПЕДИКЮР ГЕЛЬ-ЛАК ВСЁ ВКЛЮЧЕНО",
+            "service_points": 4.35,
+            "service_custom_sort": 6,
+            "icon": {
+              "id": 25655300,
+              "url": "https://f1.dikidi.ru/c13/v12828/29r3vlr1eo.jpg"
+            }
+          },
+          {
+            "id": 13947588,
+            "company_service_id": 13947588,
+            "name": "ОБРАБОТКА СТОП",
+            "image": "https://f1.dikidi.net/c13/v12265/q88kumdhcb.jpg",
+            "cost": 2500,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 2500,
+            "share": 0,
+            "service_value": "ОБРАБОТКА СТОП",
+            "service_points": 0,
+            "service_custom_sort": 5,
+            "icon": {
+              "id": 24528272,
+              "url": "https://f1.dikidi.ru/c13/v12265/q88kumdhcb.jpg"
+            }
+          },
+          {
+            "id": 10348084,
+            "company_service_id": 10348084,
+            "name": "ПЕДИКЮР БЕЗ ПОКРЫТИЯ",
+            "image": "https://f1.dikidi.net/c13/v12265/633vf0o60r.jpg",
+            "cost": 3500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 3500,
+            "share": 0,
+            "service_value": "ПЕДИКЮР БЕЗ ПОКРЫТИЯ",
+            "service_points": 5.48,
+            "service_custom_sort": 4,
+            "icon": {
+              "id": 24528350,
+              "url": "https://f1.dikidi.ru/c13/v12265/633vf0o60r.jpg"
+            }
+          },
+          {
+            "id": 10348058,
+            "company_service_id": 10348058,
+            "name": "ПЕДИКЮР БЕЗ ПОКРЫТИЯ (ПАЛЬЧИКИ)",
+            "image": "https://f1.dikidi.net/c13/v12265/2hvrhrqam2.jpg",
+            "cost": 3000,
+            "time": 60,
+            "floating": false,
+            "discount": 0,
+            "price": 3000,
+            "share": 0,
+            "service_value": "ПЕДИКЮР БЕЗ ПОКРЫТИЯ (ПАЛЬЧИКИ)",
+            "service_points": 0,
+            "service_custom_sort": 3,
+            "icon": {
+              "id": 24528366,
+              "url": "https://f1.dikidi.ru/c13/v12265/2hvrhrqam2.jpg"
+            }
+          },
+          {
+            "id": 19827320,
+            "company_service_id": 19827320,
+            "name": "ПОКРЫТИЕ ЛАКОМ (доп. опция к педикюру)",
+            "image": "https://f2.dikidi.net/c24/v23492/1g3ulkdeo6.jpg",
+            "cost": 500,
+            "time": 30,
+            "floating": false,
+            "discount": 0,
+            "price": 500,
+            "share": 0,
+            "service_value": "ПОКРЫТИЕ ЛАКОМ (доп. опция к педикюру)",
+            "service_points": 0.1,
+            "service_custom_sort": 2,
+            "icon": {
+              "id": 46983306,
+              "url": "https://f2.dikidi.ru/c24/v23492/1g3ulkdeo6.jpg"
+            }
+          },
+          {
+            "id": 10344978,
+            "company_service_id": 10344978,
+            "name": "ПЕДИКЮР ГЕЛЬ-ЛАК (ПАЛЬЧИКИ)",
+            "image": "https://f1.dikidi.net/c13/v12828/7n11ihkcvn.jpg",
+            "cost": 4500,
+            "time": 90,
+            "floating": false,
+            "discount": 0,
+            "price": 4500,
+            "share": 0,
+            "service_value": "ПЕДИКЮР ГЕЛЬ-ЛАК (ПАЛЬЧИКИ)",
+            "service_points": 0.09,
+            "service_custom_sort": 1,
+            "icon": {
+              "id": 25655284,
+              "url": "https://f1.dikidi.ru/c13/v12828/7n11ihkcvn.jpg"
+            }
+          }
+        ]
+      }
+    ],
+    "currency": {
+      "id": 33,
+      "title": "Сербский динар",
+      "abbr": "RSD",
+      "iso": "RSD"
+    },
+    "minimal_cost": 300
+  }
+}
